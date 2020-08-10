@@ -88,7 +88,6 @@ table{
   background-color:white;
   padding:3vw;
   width:82.5%;
-  margin-left:8.5vw;
   padding-left:3.5vw;
   font-size:1.3vw;
   margin:auto;
@@ -141,7 +140,7 @@ td{
   padding-bottom:1vw;
   line-height:1.6vw;
   vertical-align:top;
-  /*border:solid black;*/
+  /*border:solid rgb(1, 175, 152);*/
 }
 td.opp, td.question
 {
