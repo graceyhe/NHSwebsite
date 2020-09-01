@@ -24,6 +24,7 @@ function myFunction()
     }
     else
     {
+        if(grade.localeCompare("12")!=0)
         document.getElementById("displayDues").innerHTML="Please pay your dues!";
     }
     var hr = result.indexOf("hr",pos);
@@ -41,7 +42,12 @@ function myFunction()
     }
     //alert("Number of hours: "+hours);
     var dispName = first.toString().slice(0,1)+first.toString().slice(1,first.length).toLowerCase();
-    document.getElementById("displayName").innerHTML="Hello "+dispName+"!";
+    if(first.localeCompare("HENRI-CONSTANT")==0)
+        document.getElementById("displayName").innerHTML="Hello Henri-Constant"+"!";
+    else 
+    {
+            document.getElementById("displayName").innerHTML="Hello "+dispName+"!";
+    }
     document.getElementById("displayName").style.fontWeight="bold";
     document.getElementById("displayName").style.fontSize="200%";
     document.getElementById("displayHours").innerHTML="Number of Hours: "+hours;
@@ -55,7 +61,7 @@ function myFunction()
     else
     {
         document.getElementById("displayCompletion").innerHTML=
-        "Remember, you'll need at least 25 volunteer hours at 2 or more different places to fulfill NHS requirements.";
+        "Remember, you'll need at least 25 volunteer hours at 2 or more different places to fulfill NHS requirements. You'll also need to attend the monthly required meetings.";
         document.getElementById("displayCompletion").style.lineHeight=1.25;
         document.getElementById("catCeleb").style.opacity=0;
     }
