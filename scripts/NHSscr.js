@@ -61,7 +61,7 @@ function myFunction()
     else
     {
         document.getElementById("displayCompletion").innerHTML=
-        "Remember, you'll need at least 15 volunteer hours (5 from NHS) at 2 or more different places to fulfill NHS requirements. You'll also need to attend the monthly required meetings.";
+        "Remember, you'll need at least 15 volunteer hours (5 from NHS) to fulfill NHS requirements. You'll also need to attend the monthly required meetings.";
         document.getElementById("displayCompletion").style.lineHeight=1.25;
         document.getElementById("catCeleb").style.opacity=0;
     }
