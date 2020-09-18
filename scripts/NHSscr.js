@@ -52,7 +52,7 @@ function myFunction()
     document.getElementById("displayName").style.fontSize="200%";
     document.getElementById("displayHours").innerHTML="Number of Hours: "+hours;
     var inthrs = parseInt(hours,10);
-    if(inthrs>=25 && places.length>=2)
+    if(inthrs>=15 && places.length>=2)
     {
         document.getElementById("displayCompletion").innerHTML="Congratulations! You have fulfilled all NHS requirements!";
         document.getElementById("catCeleb").style.opacity=1;
@@ -61,7 +61,7 @@ function myFunction()
     else
     {
         document.getElementById("displayCompletion").innerHTML=
-        "Remember, you'll need at least 25 volunteer hours at 2 or more different places to fulfill NHS requirements. You'll also need to attend the monthly required meetings.";
+        "Remember, you'll need at least 15 volunteer hours (5 from NHS) at 2 or more different places to fulfill NHS requirements. You'll also need to attend the monthly required meetings.";
         document.getElementById("displayCompletion").style.lineHeight=1.25;
         document.getElementById("catCeleb").style.opacity=0;
     }

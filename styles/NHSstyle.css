@@ -46,7 +46,7 @@ input[type=submit] {
   
 }
 input[type=submit]:hover{
-  background-color: #41a044;
+  background-color: #23719e;
 }
 input[type=text] {
   width: 80%;
@@ -95,6 +95,10 @@ table{
   animation-iteration-count: 1; 
   animation-fill-mode: forwards;*/
 } 
+li:not(#page)
+{
+  padding-bottom:.5vw
+}
 #catCeleb
 {
   opacity:0
@@ -135,7 +139,9 @@ a.navig:hover:before {
 }
 td.header{
   padding-bottom:2vw;
+  font-size:120%;
 }
+
 td{
   padding-bottom:1vw;
   line-height:1.6vw;
