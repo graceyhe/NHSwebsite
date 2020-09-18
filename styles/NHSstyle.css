@@ -132,6 +132,7 @@ a.navig:before {
 {
   border-radius:12px;
   background-color: #88dad3;
+
 }
 a.navig:hover:before {
   visibility: visible;
