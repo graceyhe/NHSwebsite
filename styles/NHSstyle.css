@@ -15,7 +15,7 @@ h1
 }
 body 
 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Candara, Cochin, Georgia, Times, 'Times New Roman', serif;
     /*font-size: 40px;*/
     margin-left: 1vw;
     margin-top: 1vw;
@@ -61,7 +61,7 @@ nav {
   max-width: 80vw;
   margin: 0 auto;
   padding: 1vw 0;
-  font-family: Cambria,serif;
+  font-family: Candara,serif;
 }
 nav ul.navbar {
   text-align: center;
@@ -75,7 +75,7 @@ nav ul.navbar #page {
 }
 nav ul.navbar #page a {
   padding: 2vw;
-  font-family: Verdana, Geneva, sans-serif;
+  font-family: 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;
   text-transform:uppercase;
   color: rgb(78, 75, 236);
   text-shadow: 2px 2px 5px rgb(0, 0, 0);
