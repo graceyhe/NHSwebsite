@@ -5,9 +5,9 @@ IKER  AGUIRRE 12g N 0hr 0/5 0sac |
 MAHA  AFZAL 12g N 0hr 0/5 0sac |
 LUJAIN  ALBALAS 12g N 0hr 0/5 0sac |
 ELIZABETH M ANDREWS 12g N 0hr 0/5 0sac |
-NIKI T ARASTO 12g N 0hr 0/5 0sac |
+NIKI T ARASTO 12g N 6hr 0/5 0sac |Ranger Camp
 ILHAM A ARYAWAN 12g N 0hr 0/5 0sac |	
-SIMRAN S ATHAVALE 12g N 0hr 0/5 0sac |
+SIMRAN S ATHAVALE 12g N 12hr 0/5 0sac |St.Laurence Church Lunch Bags
 ALEFIA  AZIZ ALI 12g N 0hr 0/5 0sac |
 KENNEDY M BARNES 12g N 0hr 0/5 0sac |
 ANDREW  BARRERA 12g N 0hr 0/5 0sac |
@@ -21,7 +21,7 @@ SAGE T BUTLER 12g N 0hr 0/5 0sac |
 ZOIE E CAMP 12g N 0hr 0/5 0sac |
 SHAAN J CHANCHANI 12g N 0hr 0/5 0sac |
 SHAMIKSHA  CHANDRAN 12g N 0hr 0/5 0sac |
-KATHRYN G CHEN 12g N 0hr 0/5 0sac |
+KATHRYN G CHEN 12g N 1hr 0/5 0sac |Atria Living Center
 MICHELLE L CHEN 12g N 0hr 0/5 0sac |
 ABBY M COUTURE 12g N 0hr 0/5 0sac |
 ARDEN C CULVER 12g N 0hr 0/5 0sac |
@@ -52,7 +52,7 @@ STEPHANIE N HUYNH 12g N 0hr 0/5 0sac |
 KAELIN E ISAACSON 12g N 0hr 0/5 0sac |
 VIVIKA V IYENGAR 12g N 0hr 0/5 0sac |
 LINSAY A JACOBS 12g N 0hr 0/5 0sac |
-ASHITA  JAIN 12g N 0hr 0/5 0sac |
+ASHITA  JAIN 12g N 2hr 0/5 0sac |Sri Kulkarni Phone Banking
 ABEL P JOHN 12g N 0hr 0/5 0sac |
 MUKUND S JOSYULA 12g N 0hr 0/5 0sac |
 DALIA A KAISSI 12g N 0hr 0/5 0sac |
@@ -68,7 +68,7 @@ CHRISTIAN E LE 12g N 0hr 0/5 0sac |
 MORGAN  LE 12g N 0hr 0/5 0sac |
 LOGAN A LEIDER 12g N 0hr 0/5 0sac |
 ANDY  LI 12g N 0hr 0/5 0sac |
-NORA M LI 12g N 0hr 0/5 0sac |
+NORA M LI 12g N 2hr 0/5 0sac |Sri Kulkarni Phone Banking
 SAMANTHA C LI 12g N 0hr 0/5 0sac |
 ANNABELLE C LIN 12g N 0hr 0/5 0sac |
 BRIDGETTE  LIU 12g N 0hr 0/5 0sac |
@@ -89,11 +89,11 @@ ARIANA R MEHTA 12g N 0hr 0/5 0sac |
 KHUSHI P MEHTA 12g N 0hr 0/5 0sac |
 CHAD  MELHEM 12g N 0hr 0/5 0sac |
 TAYLOR  MICHEAUX 12g N 0hr 0/5 0sac |
-PRESLEY N MILLS 12g N 0hr 0/5 0sac |
+PRESLEY N MILLS 12g N 3hr 0/5 0sac |Christ Church Sugar Land
 MICHEAL J MITCHELL 12g N 0hr 0/5 0sac |
 IYAN  MOMIN 12g N 0hr 0/5 0sac |
 ABRAHAM  MUGHAL 12g N 0hr 0/5 0sac |
-ABHINAYA  MURUGANANDHAM 12g N 0hr 0/5 0sac |
+ABHINAYA  MURUGANANDHAM 12g N 12hr 0/5 0sac |BumbleB Trust
 NATHAN W NASSAR 12g N 0hr 0/5 0sac |
 HENRI-CONSTANT N NGASSOP JR 12g N 0hr 0/5 0sac |
 ANDREW  NGUYEN 12g N 0hr 0/5 0sac |
@@ -104,15 +104,15 @@ ANDREW  PAUMEN 12g N 0hr 0/5 0sac |
 ERIC  PENG 12g N 0hr 0/5 0sac |
 ANNIKA  POONIA 12g N 0hr 0/5 0sac |
 SANJANA S PORAY 12g N 0hr 0/5 0sac |
-RITHIKA  POTHI 12g N 0hr 0/5 0sac |
+RITHIKA  POTHI 12g N 5hr 0/5 0sac |Lunches of Love, Teen Service League, Hurricane Preparedness
 NATHAN R PUCKETT 12g N 0hr 0/5 0sac |
 ELIZABETH  QUACH 12g N 0hr 0/5 0sac |
 ABHAY B RAO 12g N 0hr 0/5 0sac |
-LINDA A REFAI 12g N 0hr 0/5 0sac |
+LINDA A REFAI 12g N 4hr 0/5 0sac |Second Mile Mission
 JASON  REN 12g N 0hr 0/5 0sac |
 OSCAR S RODEN 12g N 0hr 0/5 0sac |
 NANCY E ROSA 12g N 0hr 0/5 0sac |
-MAUMITA  SADHUKHAN 12g N 0hr 0/5 0sac |
+MAUMITA  SADHUKHAN 12g N 4hr 0/5 0sac |Text Banking Dem Party
 AHRITA  SANGHI 12g N 0hr 0/5 0sac |
 SREERAM S SATISH 12g N 0hr 0/5 0sac |
 CATHERINE E SCOTT 12g N 0hr 0/5 0sac |
