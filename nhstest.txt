@@ -1,144 +1,95 @@
 Name Middle Last Grade Dues TotalHrs wNHS SACs| Notes
-RYAN N AARON 12g N 0hr 0/5 0sac |
-ZOHAIB  ABBASI 12g N 0hr 0/5 0sac |
-IKER  AGUIRRE 12g N 0hr 0/5 0sac |
-MAHA  AFZAL 12g N 0hr 0/5 0sac |
-LUJAIN  ALBALAS 12g N 0hr 0/5 0sac |
-ELIZABETH M ANDREWS 12g N 0hr 0/5 0sac |
-NIKI T ARASTO 12g N 6hr 0/5 0sac |Ranger Camp
-ILHAM A ARYAWAN 12g N 0hr 0/5 0sac |	
-SIMRAN S ATHAVALE 12g N 12hr 0/5 0sac |St.Laurence Church Lunch Bags
-ALEFIA  AZIZ ALI 12g N 0hr 0/5 0sac |
-KENNEDY M BARNES 12g N 0hr 0/5 0sac |
-ANDREW  BARRERA 12g N 0hr 0/5 0sac |
-MADISON  BENNETT 12g N 0hr 0/5 0sac |
-CHANDNI  BHAGTANEY 12g N 0hr 0/5 0sac |
-RAJYK  BHALA 12g N 0hr 0/5 0sac |
-JASMINE R BISMAR 12g N 0hr 0/5 0sac |
-MEERA  BORLE 12g N 0hr 0/5 0sac |
-SUMER Z BRITO 12g N 0hr 0/5 0sac |
-SAGE T BUTLER 12g N 0hr 0/5 0sac |
-ZOIE E CAMP 12g N 0hr 0/5 0sac |
-SHAAN J CHANCHANI 12g N 0hr 0/5 0sac |
-SHAMIKSHA  CHANDRAN 12g N 0hr 0/5 0sac |
-KATHRYN G CHEN 12g N 1hr 0/5 0sac |Atria Living Center
-MICHELLE L CHEN 12g N 0hr 0/5 0sac |
-ABBY M COUTURE 12g N 0hr 0/5 0sac |
-ARDEN C CULVER 12g N 0hr 0/5 0sac |
-MATTHEW  CUPICH 12g N 0hr 0/5 0sac |
-NICHOLAS A DAMIANO 12g N 0hr 0/5 0sac |
-CHLOE  DANG 12g N 0hr 0/5 0sac |
-JOHNNY N DAO 12g N 0hr 0/5 0sac |
-APURVA C DESAI 12g N 0hr 0/5 0sac|
-ANNIKA N ELISHA 12g N 0hr 0/5 0sac |
-STEPHANIE  ESSIEN 12g N 0hr 0/5 0sac |
-ANDREA P FIGUEROA LOYO 12g N 0hr 0/5 0sac |
-RACHEL E FOUX 12g N 0hr 0/5 0sac |
-BERNICE G FRANCISCO 12g N 0hr 0/5 0sac |
-MAXINE  GARDNER 12g N 0hr 0/5 0sac |
-JOHN C GARZA 12g N 0hr 0/5 0sac |
-SIMRAN  GOEL 12g N 0hr 0/5 0sac |
-CAITLIN  GOLDWAIT 12g N 0hr 0/5 0sac |
-REWA  GOYAL 12g N 0hr 0/5 0sac |
-BIANCA  GUARDIAN 12g N 0hr 0/5 0sac |
-PRANAVI  GUPTA 12g N 0hr 0/5 0sac |
-LYDIA  HASSALL 12g N 0hr 0/5 0sac |
-GRACE Y HE 12g N 0hr 0/5 0sac |
-BRENDAN S HON 12g N 0hr 0/5 0sac |
-EVAN  HONG 12g N 0hr 0/5 0sac |
-JIA Y HU 12g N 0hr 0/5 0sac |
-CAROLINE N HUYNH 12g N 0hr 0/5 0sac |
-STEPHANIE N HUYNH 12g N 0hr 0/5 0sac |
-KAELIN E ISAACSON 12g N 0hr 0/5 0sac |
-VIVIKA V IYENGAR 12g N 0hr 0/5 0sac |
-LINSAY A JACOBS 12g N 0hr 0/5 0sac |
-ASHITA  JAIN 12g N 2hr 0/5 0sac |Sri Kulkarni Phone Banking
-ABEL P JOHN 12g N 0hr 0/5 0sac |
-MUKUND S JOSYULA 12g N 0hr 0/5 0sac |
-DALIA A KAISSI 12g N 0hr 0/5 0sac |
-ANTHONY  KARAM 12g N 0hr 0/5 0sac |
-SEYED A KAZEMI 12g N 0hr 0/5 0sac |
-SAIRA Z KHAN 12g N 0hr 0/5 0sac |
-JONATHAN W KLEVENSKI 12g N 0hr 0/5 0sac |
+IKER  AGUIRRE 12g Y 0hr 0/5 0sac |
+HUMZA  AKHTAR 12g N 11hr 0/5 0sac |Westfield Urgent Care, Lunches of Love
+LUJAIN  ALBALAS 12g Y 0hr 0/5 0sac |
+ELIZABETH M ANDREWS 12g Y 0hr 0/5 0sac |
+NIKI T ARASTO 12g Y 6hr 0/5 0sac |Ranger Camp
+ILHAM A ARYAWAN 12g Y 0hr 0/5 0sac |	
+SIMRAN S ATHAVALE 12g Y 12hr 0/5 0sac |St.Laurence Church Lunch Bags
+ALEFIA  AZIZ ALI 12g Y 0hr 0/5 0sac |
+KENNEDY M BARNES 12g Y 0hr 0/5 0sac |
+ANDREW  BARRERA 12g Y 0hr 0/5 0sac |
+CHANDNI  BHAGTANEY 12g Y 0hr 0/5 0sac |
+RAJYK  BHALA 12g Y 0hr 0/5 0sac |
+MEERA  BORLE 12g Y 0hr 0/5 0sac |
+SAGE T BUTLER 12g Y 0hr 0/5 0sac |
+ZOIE E CAMP 12g Y 0hr 0/5 0sac |
+SHAAN J CHANCHANI 12g Y 0hr 0/5 0sac |
+SAMIKSHA  CHANDRAN 12g Y 0hr 0/5 0sac |
+KATHRYN G CHEN 12g Y 1hr 0/5 0sac |Atria Living Center
+MICHELLE L CHEN 12g Y 0hr 0/5 0sac |
+ABBY M COUTURE 12g Y 0hr 0/5 0sac |
+ARDEN C CULVER 12g Y 0hr 0/5 0sac |
+MATTHEW  CUPICH 12g Y 0hr 0/5 0sac |
+NICHOLAS A DAMIANO 12g Y 0hr 0/5 0sac |
+CHLOE  DANG 12g Y 0hr 0/5 0sac |
+ANNIKA N ELISHA 12g Y 0hr 0/5 0sac |
+ZUNAIRA  FAROOQ 12g N 5hr 0/5 0sac |Risala
+RACHEL E FOUX 12g Y 0hr 0/5 0sac |
+BERNICE G FRANCISCO 12g Y 0hr 0/5 0sac |
+SARAH  GELFER 12g Y 0hr 0/5 0sac |
+PRANAVI  GUPTA 12g Y 0hr 0/5 0sac |
+LYDIA  HASSALL 12g Y 0hr 0/5 0sac |
+GRACE Y HE 12g Y 0hr 0/5 0sac |
+ASHITA  JAIN 12g Y 2hr 0/5 0sac |Sri Kulkarni Phone Banking
+AIMEE  JEFFREY-IWELU 12g Y 2hr 0/5 0sac |
+MUKUND S JOSYULA 12g Y 0hr 0/5 0sac |
+DALIA A KAISSI 12g Y 0hr 0/5 0sac |
+ANTHONY  KARAM 12g Y 0hr 0/5 0sac |
+AASIYAH  KASSAM 12g Y 0hr 0/5 0sac |
+SAIRA Z KHAN 12g Y 0hr 0/5 0sac |
+CHAUDHRY-ALI  KHAN 12g Y 0hr 0/5 0sac |
 ISABELLA K KUMAR 12g N 0hr 0/5 0sac |
-VINCENT A LAI 12g N 0hr 0/5 0sac |
-KAITLYN R LAM 12g N 0hr 0/5 0sac |
-CARSON J LAND 12g N 0hr 0/5 0sac |
-CHRISTIAN E LE 12g N 0hr 0/5 0sac |
-MORGAN  LE 12g N 0hr 0/5 0sac |
-LOGAN A LEIDER 12g N 0hr 0/5 0sac |
-ANDY  LI 12g N 0hr 0/5 0sac |
-NORA M LI 12g N 2hr 0/5 0sac |Sri Kulkarni Phone Banking
-SAMANTHA C LI 12g N 0hr 0/5 0sac |
-ANNABELLE C LIN 12g N 0hr 0/5 0sac |
-BRIDGETTE  LIU 12g N 0hr 0/5 0sac |
-JESSICA M LIU 12g N 0hr 0/5 0sac |
-TED  LIU 12g N 0hr 0/5 0sac |
-EMILY  LOOTENS 12g N 0hr 0/5 0sac |
-AZAHRA A MAHARANI 12g N 0hr 0/5 0sac |
-ELISA L MAKNOJIA 12g N 0hr 0/5 0sac |
-DAVID M MALLORY 12g N 0hr 0/5 0sac |
-ANJALI M MANI 12g N 0hr 0/5 0sac |
-HARJYOT K MANN 12g N 0hr 0/5 0sac |
-NAMITHA  MARIAM JAIMSON 12g N 0hr 0/5 0sac |
-RHEA M MATLAPUDI 12g N 0hr 0/5 0sac |
-MEGAN  MCKAY 12g N 0hr 0/5 0sac |
-FELIPE O MEDRADO 12g N 0hr 0/5 0sac |
-SHREYA  MEHRA 12g N 0hr 0/5 0sac |
-ARIANA R MEHTA 12g N 0hr 0/5 0sac |
-KHUSHI P MEHTA 12g N 0hr 0/5 0sac |
-CHAD  MELHEM 12g N 0hr 0/5 0sac |
-TAYLOR  MICHEAUX 12g N 0hr 0/5 0sac |
+CARSON J LAND 12g Y 0hr 0/5 0sac |
+CHRISTIAN E LE 12g Y 0hr 0/5 0sac |
+LOGAN A LEIDER 12g Y 0hr 0/5 0sac |
+LARISSA  LEOTAUD 12g N 15hr 0/5 0sac|UT Neurology
+NORA M LI 12g Y 2hr 0/5 0sac |Sri Kulkarni Phone Banking
+JESSICA M LIU 12g Y 0hr 0/5 0sac |
+AZAHRA A MAHARANI 12g Y 0hr 0/5 0sac |
+ADIBA  MAHJABEEN 12g Y 0hr 0/5 0sac |
+ELISA L MAKNOJIA 12g Y 0hr 0/5 0sac |
+SAHIL  MALIK 12g Y 0hr 0/5 0sac |
+DAVID M MALLORY 12g Y 0hr 0/5 0sac |
+ANJALI M MANI 12g Y 0hr 0/5 0sac |
+HARJYOT K MANN 12g Y 0hr 0/5 0sac |
+NAMITHA  MARIAM JAIMSON 12g Y 0hr 0/5 0sac |
+SHREYA  MEHRA 12g Y 0hr 0/5 0sac |
+KHUSHI P MEHTA 12g Y 0hr 0/5 0sac |
+TAYLOR  MICHEAUX 12g Y 0hr 0/5 0sac |
 PRESLEY N MILLS 12g N 3hr 0/5 0sac |Christ Church Sugar Land
-MICHEAL J MITCHELL 12g N 0hr 0/5 0sac |
-IYAN  MOMIN 12g N 0hr 0/5 0sac |
-ABRAHAM  MUGHAL 12g N 0hr 0/5 0sac |
-ABHINAYA  MURUGANANDHAM 12g N 12hr 0/5 0sac |BumbleB Trust
-NATHAN W NASSAR 12g N 0hr 0/5 0sac |
-HENRI-CONSTANT N NGASSOP JR 12g N 0hr 0/5 0sac |
-ANDREW  NGUYEN 12g N 0hr 0/5 0sac |
-EMILY  NGUYEN 12g N 0hr 0/5 0sac |
-DANIEL Y ODAT 12g N 0hr 0/5 0sac |
-SHRUTI N PATHAK 12g N 0hr 0/5 0sac |
-ANDREW  PAUMEN 12g N 0hr 0/5 0sac |
-ERIC  PENG 12g N 0hr 0/5 0sac |
-ANNIKA  POONIA 12g N 0hr 0/5 0sac |
-SANJANA S PORAY 12g N 0hr 0/5 0sac |
-RITHIKA  POTHI 12g N 5hr 0/5 0sac |Lunches of Love, Teen Service League, Hurricane Preparedness
-NATHAN R PUCKETT 12g N 0hr 0/5 0sac |
-ELIZABETH  QUACH 12g N 0hr 0/5 0sac |
-ABHAY B RAO 12g N 0hr 0/5 0sac |
-LINDA A REFAI 12g N 4hr 0/5 0sac |Second Mile Mission
-JASON  REN 12g N 0hr 0/5 0sac |
-OSCAR S RODEN 12g N 0hr 0/5 0sac |
-NANCY E ROSA 12g N 0hr 0/5 0sac |
-MAUMITA  SADHUKHAN 12g N 4hr 0/5 0sac |Text Banking Dem Party
-AHRITA  SANGHI 12g N 0hr 0/5 0sac |
-SREERAM S SATISH 12g N 0hr 0/5 0sac |
-CATHERINE E SCOTT 12g N 0hr 0/5 0sac |
-ANIRUDAN  SIVAPRAKASH 12g N 0hr 0/5 0sac |
-ANDREW J SOBRINHO 12g N 0hr 0/5 0sac |
-ALEXIS M SOLNTSEV 12g N 0hr 0/5 0sac |
-DANIEL  SOTILLO 12g N 0hr 0/5 0sac |
-CATE J SPITZNAGEL 12g N 0hr 0/5 0sac |
-SHALEEN R SUNESARA 12g N 0hr 0/5 0sac |
-YI  SUO 12g N 0hr 0/5 0sac |
-JASMINE N SZABO 12g N 0hr 0/5 0sac |
-LANDON  THOMPSON 12g N 0hr 0/5 0sac |
-PARSA  TORABI 12g N 0hr 0/5 0sac |
-HARUNA  TORIKAI 12g N 0hr 0/5 0sac |
-PINAK  TRIPATHI 12g N 0hr 0/5 0sac |
-MEGHAN Y TU 12g N 0hr 0/5 0sac |
-ANERI  UPADHYAY 12g N 0hr 0/5 0sac |
-ABHINAV R VADASSERY 12g N 0hr 0/5 0sac|
-SOFIA M VELA 12g N 0hr 0/5 0sac |
-SAMYUKTHA  VENKATESH 12g N 0hr 0/5 0sac |
-DANIEL E VILLARREAL 12g N 0hr 0/5 0sac |
-DAVID A VILLAREAL 12g N 0hr 0/5 0sac |
-JESSICA  VU 12g N 0hr 0/5 0sac |
-EMMA  WHITEHEAD 12g N 0hr 0/5 0sac |
-JIAYI  XIAO 12g N 0hr 0/5 0sac |
-HAOJUAN  XU 12g N 0hr 0/5 0sac |
-KRISTIN  XU 12g N 0hr 0/5 0sac |
-SUMMER  YANG 12g N 0hr 0/5 0sac |
-YUHAN  ZHOU 12g N 0hr 0/5 0sac |
+NICHOLAS MITCHELL 12g Y 5.5hr 0/5 0sac |Houston Food Bank, Toward the Dawn Online Church
+IYAN  MOMIN 12g Y 0hr 0/5 0sac |
+ABRAHAM  MUGHAL 12g Y 0hr 0/5 0sac |
+ABHINAYA  MURUGANANDHAM 12g Y 12hr 0/5 0sac |BumbleB Trust
+NATHAN W NASSAR 12g Y 0hr 0/5 0sac |
+SHRUTI N PATHAK 12g Y 0hr 0/5 0sac |
+ANDREW  PAUMEN 12g Y 0hr 0/5 0sac |
+ERIC  PENG 12g Y 0hr 0/5 0sac |
+ANNIKA  POONIA 12g Y 0hr 0/5 0sac |
+SANJANA S PORAY 12g Y 0hr 0/5 0sac |
+RITHIKA  POTHI 12g Y 5hr 0/5 0sac |Lunches of Love, Teen Service League, Hurricane Preparedness
+ELIZABETH  QUACH 12g Y 0hr 0/5 0sac |
+PAULA ENZABELLE  QUINTO 12g Y 0hr 0/5 0sac |
+LINDA A REFAI 12g Y 11hr 0/5 0sac |Second Mile Mission
+KYLE  RUDOLPH 12g N 3hr 0/5 0sac |East Fort Bend Human Needs
+MAUMITA  SADHUKHAN 12g Y 4hr 0/5 0sac |Text Banking Dem Party
+ASHRITA  SANGHI 12g Y 0hr 0/5 0sac |
+SREERAM S SATISH 12g Y 0hr 0/5 0sac |
+CATHERINE E SCOTT 12g Y 0hr 0/5 0sac |
+RAJVI  SHAH 12g N 20hr 0/5 0sac |ITECH-STEM camp
+ANIRUDAN  SIVAPRAKASH 12g Y 0hr 0/5 0sac |
+WAVERLY  SOUVANNACHACK 12g Y 0hr 0/5 0sac |
+SHALEEN R SUNESARA 12g Y 0hr 0/5 0sac |
+YI  SUO 12g Y 0hr 0/5 0sac |
+JASMINE N SZABO 12g Y 0hr 0/5 0sac |
+LANDON  THOMPSON 12g Y 0hr 0/5 0sac |
+HARUNA  TORIKAI 12g Y 2.37hr 0/5 0sac |Houston Food Bank
+PINAK  TRIPATHI 12g Y 0hr 0/5 0sac |
+SOFIA M VELA 12g Y 0hr 0/5 0sac |
+SAMYUKTHA  VENKATESH 12g Y 0hr 0/5 0sac |
+DANIEL E VILLARREAL 12g Y 0hr 0/5 0sac |
+DAVID A VILLAREAL 12g Y 0hr 0/5 0sac |
+ALLISON  WANG 12g Y 0hr 0/5 0sac |
+SUMMER  YANG 12g Y 0hr 0/5 0sac |
+YUHAN  ZHOU 12g Y 0hr 0/5 0sac |

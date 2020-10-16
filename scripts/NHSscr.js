@@ -34,13 +34,14 @@ function myFunction()
         document.getElementById("displayPlaces").innerHTML="Check out the Volunteer page for potential volunteering opportunities!";
     }*/
     //alert("Number of hours: "+hours);
-    var dispName = first.toString().slice(0,1)+first.toString().slice(1,first.length).toLowerCase();
-    if(first.localeCompare("HENRI-CONSTANT")==0)
-        document.getElementById("displayName").innerHTML="Hello Henri-Constant"+"!";
-    else 
+    if(first.includes(" "))
     {
-            document.getElementById("displayName").innerHTML="Hello "+dispName+"!";
+        var dispName = first.slice(0,1)+first.slice(1,first.indexOf(" ")).toLowerCase()+" "+first.slice(first.indexOf(" ")+1,first.indexOf(" ")+2)+first.slice(first.indexOf(" ")+2,first.length).toLowerCase();
     }
+    else
+        var dispName = first.toString().slice(0,1)+first.toString().slice(1,first.length).toLowerCase();
+    document.getElementById("displayName").innerHTML="Hello "+dispName+"!";
+    
     if(pos!=-1 && namleng>3)
     {
         var grade = result.slice(pos+namleng,pos+namleng+2);
