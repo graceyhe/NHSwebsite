@@ -1,4 +1,5 @@
 Name Middle Last Grade Dues TotalHrs wNHS SACs| Notes
+RYAN  AARON 12g N 8hr 0/5 0sac |Fellowship in Discipleship
 IKER  AGUIRRE 12g Y 0hr 0/5 0sac |
 HUMZA  AKHTAR 12g N 11hr 0/5 0sac |Westfield Urgent Care, Lunches of Love
 LUJAIN  ALBALAS 12g Y 0hr 0/5 0sac |
@@ -16,12 +17,12 @@ SAGE T BUTLER 12g Y 0hr 0/5 0sac |
 ZOIE E CAMP 12g Y 0hr 0/5 0sac |
 SHAAN J CHANCHANI 12g Y 0hr 0/5 0sac |
 SAMIKSHA  CHANDRAN 12g Y 0hr 0/5 0sac |
-KATHRYN G CHEN 12g Y 1hr 0/5 0sac |Atria Living Center
+KATHRYN G CHEN 12g Y 2hr 0/5 0sac |Atria Living Center
 MICHELLE L CHEN 12g Y 0hr 0/5 0sac |
 ABBY M COUTURE 12g Y 0hr 0/5 0sac |
-ARDEN C CULVER 12g Y 0hr 0/5 0sac |
+ARDEN C CULVER 12g Y 1hr 0/5 0sac |Smithsonian Institution Transcription Center
 MATTHEW  CUPICH 12g Y 0hr 0/5 0sac |
-NICHOLAS A DAMIANO 12g Y 0hr 0/5 0sac |
+NICHOLAS A DAMIANO 12g Y 6hr 0/5 0sac |Second Mile Mission
 CHLOE  DANG 12g Y 0hr 0/5 0sac |
 ANNIKA N ELISHA 12g Y 0hr 0/5 0sac |
 ZUNAIRA  FAROOQ 12g N 5hr 0/5 0sac |Risala
@@ -31,6 +32,7 @@ SARAH  GELFER 12g Y 0hr 0/5 0sac |
 PRANAVI  GUPTA 12g Y 0hr 0/5 0sac |
 LYDIA  HASSALL 12g Y 0hr 0/5 0sac |
 GRACE Y HE 12g Y 0hr 0/5 0sac |
+LINDSAY  JACOBS 12g Y 6hr 0/5 0sac |Second Mile Mission Center
 ASHITA  JAIN 12g Y 2hr 0/5 0sac |Sri Kulkarni Phone Banking
 AIMEE  JEFFREY-IWELU 12g Y 2hr 0/5 0sac |
 MUKUND S JOSYULA 12g Y 0hr 0/5 0sac |
@@ -50,7 +52,7 @@ AZAHRA A MAHARANI 12g Y 0hr 0/5 0sac |
 ADIBA  MAHJABEEN 12g Y 0hr 0/5 0sac |
 ELISA L MAKNOJIA 12g Y 0hr 0/5 0sac |
 SAHIL  MALIK 12g Y 0hr 0/5 0sac |
-DAVID M MALLORY 12g Y 0hr 0/5 0sac |
+DAVID M MALLORY 12g Y 7hr 0/5 0sac |Love for Our Elders, Second Mile Mission
 ANJALI M MANI 12g Y 0hr 0/5 0sac |
 HARJYOT K MANN 12g Y 0hr 0/5 0sac |
 NAMITHA  MARIAM JAIMSON 12g Y 0hr 0/5 0sac |
@@ -63,9 +65,9 @@ IYAN  MOMIN 12g Y 0hr 0/5 0sac |
 ABRAHAM  MUGHAL 12g Y 0hr 0/5 0sac |
 ABHINAYA  MURUGANANDHAM 12g Y 12hr 0/5 0sac |BumbleB Trust
 NATHAN W NASSAR 12g Y 0hr 0/5 0sac |
-SHRUTI N PATHAK 12g Y 0hr 0/5 0sac |
-ANDREW  PAUMEN 12g Y 0hr 0/5 0sac |
-ERIC  PENG 12g Y 0hr 0/5 0sac |
+SHRUTI N PATHAK 12g Y 6.5hr 0/5 0sac |Text Banking, Fall Food Truck Concert
+ANDREW  PAUMEN 12g Y 2hr 0/5 0sac |Second Mile Mission
+ERIC  PENG 12g Y 16hr 0/5 0sac |Simply Co.
 ANNIKA  POONIA 12g Y 0hr 0/5 0sac |
 SANJANA S PORAY 12g Y 0hr 0/5 0sac |
 RITHIKA  POTHI 12g Y 5hr 0/5 0sac |Lunches of Love, Teen Service League, Hurricane Preparedness
@@ -74,7 +76,7 @@ PAULA ENZABELLE  QUINTO 12g Y 0hr 0/5 0sac |
 LINDA A REFAI 12g Y 11hr 0/5 0sac |Second Mile Mission
 KYLE  RUDOLPH 12g N 3hr 0/5 0sac |East Fort Bend Human Needs
 MAUMITA  SADHUKHAN 12g Y 4hr 0/5 0sac |Text Banking Dem Party
-ASHRITA  SANGHI 12g Y 0hr 0/5 0sac |
+ASHRITA  SANGHI 12g Y 25hr 0/5 0sac |Text Banking, TSP
 SREERAM S SATISH 12g Y 0hr 0/5 0sac |
 CATHERINE E SCOTT 12g Y 0hr 0/5 0sac |
 RAJVI  SHAH 12g N 20hr 0/5 0sac |ITECH-STEM camp
@@ -82,9 +84,9 @@ ANIRUDAN  SIVAPRAKASH 12g Y 0hr 0/5 0sac |
 WAVERLY  SOUVANNACHACK 12g Y 0hr 0/5 0sac |
 SHALEEN R SUNESARA 12g Y 0hr 0/5 0sac |
 YI  SUO 12g Y 0hr 0/5 0sac |
-JASMINE N SZABO 12g Y 0hr 0/5 0sac |
+JASMINE N SZABO 12g Y 2hr 0/5 0sac |Key Club*
 LANDON  THOMPSON 12g Y 0hr 0/5 0sac |
-HARUNA  TORIKAI 12g Y 2.37hr 0/5 0sac |Houston Food Bank
+HARUNA  TORIKAI 12g Y 5.37hr 0/5 0sac |Houston Food Bank
 PINAK  TRIPATHI 12g Y 0hr 0/5 0sac |
 SOFIA M VELA 12g Y 0hr 0/5 0sac |
 SAMYUKTHA  VENKATESH 12g Y 0hr 0/5 0sac |
