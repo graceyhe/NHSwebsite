@@ -234,6 +234,5 @@ td.question
 }
 .button:hover
 {
-  
-  background-color: #239e9e;
+  filter:brightness(0.8);
 }
