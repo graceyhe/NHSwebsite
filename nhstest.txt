@@ -4,8 +4,8 @@ IKER  AGUIRRE 12g Y 0hr 0/5 0sac |
 HUMZA  AKHTAR 12g N 11hr 0/5 0sac |Westfield Urgent Care, Lunches of Love
 LUJAIN  ALBALAS 12g Y 0hr 0/5 0sac |
 ELIZABETH M ANDREWS 12g Y 0hr 0/5 0sac |
-NIKI T ARASTO 12g Y 6hr 0/5 0sac |Ranger Camp
-ILHAM A ARYAWAN 12g Y 0hr 0/5 0sac |	
+NIKI T ARASTO 12g Y 8hr 0/5 0sac |Ranger Camp, Arc of Fort Bend County
+ILHAM A ARYAWAN 12g Y 2hr 0/5 0sac |Bel Inizio	
 SIMRAN S ATHAVALE 12g Y 12hr 0/5 0sac |St.Laurence Church Lunch Bags
 ALEFIA  AZIZ ALI 12g Y 0hr 0/5 0sac |
 KENNEDY M BARNES 12g Y 0hr 0/5 0sac |
@@ -17,8 +17,8 @@ SAGE T BUTLER 12g Y 0hr 0/5 0sac |
 ZOIE E CAMP 12g Y 0hr 0/5 0sac |
 SHAAN J CHANCHANI 12g Y 0hr 0/5 0sac |
 SAMIKSHA  CHANDRAN 12g Y 0hr 0/5 0sac |
-KATHRYN G CHEN 12g Y 2hr 0/5 0sac |Atria Living Center
-MICHELLE L CHEN 12g Y 0hr 0/5 0sac |
+KATHRYN G CHEN 12g Y 6hr 0/5 0sac |Atria Living Center, Bel Inizio
+MICHELLE L CHEN 12g Y 9hr 0/5 0sac |FASCA
 ABBY M COUTURE 12g Y 0hr 0/5 0sac |
 ARDEN C CULVER 12g Y 1hr 0/5 0sac |Smithsonian Institution Transcription Center
 MATTHEW  CUPICH 12g Y 0hr 0/5 0sac |
@@ -30,8 +30,9 @@ RACHEL E FOUX 12g Y 0hr 0/5 0sac |
 BERNICE G FRANCISCO 12g Y 0hr 0/5 0sac |
 SARAH  GELFER 12g Y 0hr 0/5 0sac |
 PRANAVI  GUPTA 12g Y 0hr 0/5 0sac |
-LYDIA  HASSALL 12g Y 0hr 0/5 0sac |
+LYDIA  HASSALL 12g Y 11.5hr 0/5 0sac |The Rise School of Houston, AIR Project
 GRACE Y HE 12g Y 0hr 0/5 0sac |
+CAROLINE  HUYNH 12g N 5hr 0/5 0sac|Second Mile Mission, Houston Food Bank
 LINDSAY  JACOBS 12g Y 6hr 0/5 0sac |Second Mile Mission Center
 ASHITA  JAIN 12g Y 2hr 0/5 0sac |Sri Kulkarni Phone Banking
 AIMEE  JEFFREY-IWELU 12g Y 2hr 0/5 0sac |
@@ -56,17 +57,17 @@ DAVID M MALLORY 12g Y 7hr 0/5 0sac |Love for Our Elders, Second Mile Mission
 ANJALI M MANI 12g Y 0hr 0/5 0sac |
 HARJYOT K MANN 12g Y 0hr 0/5 0sac |
 NAMITHA  MARIAM JAIMSON 12g Y 0hr 0/5 0sac |
-SHREYA  MEHRA 12g Y 0hr 0/5 0sac |
+SHREYA  MEHRA 12g Y 2hr 0/5 0sac |Second Mile Mission
 KHUSHI P MEHTA 12g Y 0hr 0/5 0sac |
 TAYLOR  MICHEAUX 12g Y 0hr 0/5 0sac |
-PRESLEY N MILLS 12g N 3hr 0/5 0sac |Christ Church Sugar Land
+PRESLEY N MILLS 12g N 5hr 0/5 0sac |Christ Church Sugar Land, Second Mile Mission
 NICHOLAS MITCHELL 12g Y 5.5hr 0/5 0sac |Houston Food Bank, Toward the Dawn Online Church
 IYAN  MOMIN 12g Y 0hr 0/5 0sac |
 ABRAHAM  MUGHAL 12g Y 0hr 0/5 0sac |
 ABHINAYA  MURUGANANDHAM 12g Y 12hr 0/5 0sac |BumbleB Trust
 NATHAN W NASSAR 12g Y 0hr 0/5 0sac |
 SHRUTI N PATHAK 12g Y 6.5hr 0/5 0sac |Text Banking, Fall Food Truck Concert
-ANDREW  PAUMEN 12g Y 2hr 0/5 0sac |Second Mile Mission
+ANDREW  PAUMEN 12g Y 4.5hr 0/5 0sac |Second Mile Mission, Sugar Land Parks and Recreation
 ERIC  PENG 12g Y 16hr 0/5 0sac |Simply Co.
 ANNIKA  POONIA 12g Y 0hr 0/5 0sac |
 SANJANA S PORAY 12g Y 0hr 0/5 0sac |
@@ -86,11 +87,11 @@ SHALEEN R SUNESARA 12g Y 0hr 0/5 0sac |
 YI  SUO 12g Y 0hr 0/5 0sac |
 JASMINE N SZABO 12g Y 2hr 0/5 0sac |Key Club*
 LANDON  THOMPSON 12g Y 0hr 0/5 0sac |
-HARUNA  TORIKAI 12g Y 5.37hr 0/5 0sac |Houston Food Bank
+HARUNA  TORIKAI 12g Y 7.37hr 0/5 0sac |Houston Food Bank
 PINAK  TRIPATHI 12g Y 0hr 0/5 0sac |
 SOFIA M VELA 12g Y 0hr 0/5 0sac |
 SAMYUKTHA  VENKATESH 12g Y 0hr 0/5 0sac |
-DANIEL E VILLARREAL 12g Y 0hr 0/5 0sac |
+DANIEL E VILLARREAL 12g Y 6hr 0/5 0sac |Catholic Charities
 DAVID A VILLAREAL 12g Y 0hr 0/5 0sac |
 ALLISON  WANG 12g Y 0hr 0/5 0sac |
 SUMMER  YANG 12g Y 0hr 0/5 0sac |
