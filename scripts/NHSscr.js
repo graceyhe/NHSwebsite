@@ -34,16 +34,16 @@ function myFunction()
         document.getElementById("displayPlaces").innerHTML="Check out the Volunteer page for potential volunteering opportunities!";
     }*/
     //alert("Number of hours: "+hours);
-    if(first.includes(" "))
-    {
-        var dispName = first.slice(0,1)+first.slice(1,first.indexOf(" ")).toLowerCase()+" "+first.slice(first.indexOf(" ")+1,first.indexOf(" ")+2)+first.slice(first.indexOf(" ")+2,first.length).toLowerCase();
-    }
-    else
-        var dispName = first.toString().slice(0,1)+first.toString().slice(1,first.length).toLowerCase();
-    document.getElementById("displayName").innerHTML="Hello "+dispName+"!";
     
     if(pos!=-1 && namleng>3)
     {
+        if(first.includes(" "))
+        {
+            var dispName = first.slice(0,1)+first.slice(1,first.indexOf(" ")).toLowerCase()+" "+first.slice(first.indexOf(" ")+1,first.indexOf(" ")+2)+first.slice(first.indexOf(" ")+2,first.length).toLowerCase();
+        }
+        else
+        var dispName = first.toString().slice(0,1)+first.toString().slice(1,first.length).toLowerCase();
+        document.getElementById("displayName").innerHTML="Hello "+dispName+"!";
         var grade = result.slice(pos+namleng,pos+namleng+2);
         var dues = result.slice(pos+namleng+4,pos+namleng+5);
         //paid dues? (Y/N), only consider if not a senior
