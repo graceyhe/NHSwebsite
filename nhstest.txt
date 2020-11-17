@@ -94,6 +94,6 @@ SAMYUKTHA  VENKATESH 12g Y 0hr 0/5 0sac |
 DANIEL E VILLARREAL 12g Y 6hr 0/5 0sac |Catholic Charities
 DAVID A VILLAREAL 12g Y 0hr 0/5 0sac |
 ALLISON  WANG 12g Y 0hr 0/5 0sac |
-JIAYI  XIAO 12g N 2hr 0/5 0sac |Spanish National Honor Society*
+JIAYI  XIAO 12g Y 2hr 0/5 0sac |Spanish National Honor Society*
 SUMMER  YANG 12g Y 0hr 0/5 0sac |
 YUHAN  ZHOU 12g Y 0hr 0/5 0sac |
