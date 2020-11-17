@@ -50,11 +50,15 @@ function myFunction()
         if(dues.localeCompare("Y")==0)
         {
             document.getElementById("displayDues").innerHTML="Thank you for paying your dues! :D";
+            document.getElementById("displayDues").style.fontWeight="normal";
         }
         else
         {
-            if(grade.localeCompare("12")!=0)
-            document.getElementById("displayDues").innerHTML="Please pay your dues!";
+            if(dues.localeCompare("Y")!=0)
+            {
+                document.getElementById("displayDues").innerHTML="**It seems you have not paid dues. The due date for paying dues has passed. Please message an officer if you think this is a mistake, and/or contact Mr. Humes if you still want to be considered a member.**";
+                document.getElementById("displayDues").style.fontWeight="bold";
+            }
         }
         document.getElementById("displayName").style.fontWeight="bold";
         document.getElementById("displayName").style.fontSize="200%";
