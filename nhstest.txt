@@ -1,6 +1,6 @@
 Name Middle Last Grade Dues TotalHrs wNHS SACs| Notes
 RYAN  AARON 12g N 8hr 0/5 0sac |Fellowship in Discipleship
-IKER  AGUIRRE 12g Y 0hr 0/5 0sac |
+IKER  AGUIRRE 12g Y 0hr 3/5 0sac |
 HUMZA  AKHTAR 12g N 11hr 0/5 0sac |Westfield Urgent Care, Lunches of Love
 LUJAIN  ALBALAS 12g Y 0hr 0/5 0sac |
 ELIZABETH M ANDREWS 12g Y 0hr 0/5 0sac |
@@ -38,7 +38,7 @@ ASHITA  JAIN 12g Y 2hr 0/5 0sac |Sri Kulkarni Phone Banking
 AIMEE  JEFFREY-IWELU 12g Y 2hr 0/5 0sac |
 MUKUND S JOSYULA 12g Y 0hr 0/5 0sac |
 DALIA A KAISSI 12g Y 0hr 0/5 0sac |
-ANTHONY  KARAM 12g Y 0hr 0/5 0sac |
+ANTHONY  KARAM 12g Y 0hr 3/5 0sac |
 AASIYAH  KASSAM 12g Y 0hr 0/5 0sac |
 SAIRA Z KHAN 12g Y 0hr 0/5 0sac |
 CHAUDHRY-ALI  KHAN 12g Y 0hr 0/5 0sac |
@@ -47,22 +47,22 @@ CARSON J LAND 12g Y 0hr 0/5 0sac |
 CHRISTIAN E LE 12g Y 0hr 0/5 0sac |
 LOGAN A LEIDER 12g Y 0hr 0/5 0sac |
 LARISSA  LEOTAUD 12g N 15hr 0/5 0sac|UT Neurology
-NORA M LI 12g Y 2hr 0/5 0sac |Sri Kulkarni Phone Banking
-JESSICA M LIU 12g Y 0hr 0/5 0sac |
+NORA M LI 12g Y 2hr 3/5 0sac |Sri Kulkarni Phone Banking
+JESSICA M LIU 12g Y 0hr 3/5 0sac |
 AZAHRA A MAHARANI 12g Y 0hr 0/5 0sac |
 ADIBA  MAHJABEEN 12g Y 0hr 0/5 0sac |
 ELISA L MAKNOJIA 12g Y 0hr 0/5 0sac |
 SAHIL  MALIK 12g Y 0hr 0/5 0sac |
 DAVID M MALLORY 12g Y 7hr 0/5 0sac |Love for Our Elders, Second Mile Mission
-ANJALI M MANI 12g Y 0hr 0/5 0sac |
-HARJYOT K MANN 12g Y 0hr 0/5 0sac |
+ANJALI M MANI 12g Y 0hr 3/5 0sac |
+HARJYOT K MANN 12g Y 0hr 3/5 0sac |
 NAMITHA  MARIAM JAIMSON 12g Y 0hr 0/5 0sac |
-SHREYA  MEHRA 12g Y 4hr 0/5 0sac |Second Mile Mission
+SHREYA  MEHRA 12g Y 4hr 3/5 0sac |Second Mile Mission
 KHUSHI P MEHTA 12g Y 0hr 0/5 0sac |
 TAYLOR  MICHEAUX 12g Y 0hr 0/5 0sac |
 PRESLEY N MILLS 12g N 5hr 0/5 0sac |Christ Church Sugar Land, Second Mile Mission
 NICHOLAS MITCHELL 12g Y 5.5hr 0/5 0sac |Houston Food Bank, Toward the Dawn Online Church
-IYAN  MOMIN 12g Y 0hr 0/5 0sac |
+IYAN  MOMIN 12g Y 0hr 3/5 0sac |
 ABRAHAM  MUGHAL 12g Y 0hr 0/5 0sac |
 ABHINAYA  MURUGANANDHAM 12g Y 12hr 0/5 0sac |BumbleB Trust
 NATHAN W NASSAR 12g Y 0hr 0/5 0sac |
@@ -91,9 +91,9 @@ HARUNA  TORIKAI 12g Y 7.37hr 0/5 0sac |Houston Food Bank
 PINAK  TRIPATHI 12g Y 0hr 0/5 0sac |
 SOFIA M VELA 12g Y 0hr 0/5 0sac |
 SAMYUKTHA  VENKATESH 12g Y 0hr 0/5 0sac |
-DANIEL E VILLARREAL 12g Y 6hr 0/5 0sac |Catholic Charities
+DANIEL E VILLARREAL 12g Y 6hr 3/5 0sac |Catholic Charities
 DAVID A VILLAREAL 12g Y 0hr 0/5 0sac |
 ALLISON  WANG 12g Y 0hr 0/5 0sac |
 JIAYI  XIAO 12g Y 2hr 0/5 0sac |Spanish National Honor Society*
-SUMMER  YANG 12g Y 0hr 0/5 0sac |
+SUMMER  YANG 12g Y 0hr 3/5 0sac |
 YUHAN  ZHOU 12g Y 0hr 0/5 0sac |
