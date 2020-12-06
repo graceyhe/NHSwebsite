@@ -11,10 +11,10 @@ ALEFIA  AZIZ ALI 12g Y 0hr 0/5 0sac |
 KENNEDY M BARNES 12g Y 0hr 0/5 0sac |
 ANDREW  BARRERA 12g Y 0hr 0/5 0sac |
 CHANDNI  BHAGTANEY 12g Y 0hr 0/5 0sac |
-RAJYK  BHALA 12g Y 0hr 0/5 0sac |
+RAJYK  BHALA 12g Y 0hr 1/5 0sac |
 MEERA  BORLE 12g Y 0hr 0/5 0sac |
 SAGE T BUTLER 12g Y 0hr 0/5 0sac |
-ZOIE E CAMP 12g Y 6hr 0/5 0sac |St.Laurence Social Concerns
+ZOIE E CAMP 12g Y 6hr 1/5 0sac |St.Laurence Social Concerns
 SHAAN J CHANCHANI 12g Y 0hr 5/5 0sac |
 SAMIKSHA  CHANDRAN 12g Y 11hr 0/5 0sac |Clements NHS
 KATHRYN G CHEN 12g Y 9hr 0/5 0sac |Atria Living Center, Bel Inizio
@@ -65,7 +65,7 @@ NICHOLAS MITCHELL 12g Y 5.5hr 0/5 0sac |Houston Food Bank, Toward the Dawn Onlin
 IYAN  MOMIN 12g Y 0hr 4/5 0sac |
 ABRAHAM  MUGHAL 12g Y 0hr 0/5 0sac |
 ABHINAYA  MURUGANANDHAM 12g Y 12hr 0/5 0sac |BumbleB Trust
-NATHAN W NASSAR 12g Y 0hr 0/5 0sac |
+NATHAN W NASSAR 12g Y 0hr 1/5 0sac |
 SHRUTI N PATHAK 12g Y 9hr 0/5 0sac |Text Banking, Fall Food Truck Concert, City of Sugar Land
 ANDREW  PAUMEN 12g Y 7hr 0/5 0sac |Second Mile Mission, Sugar Land Parks and Recreation, Sugar Land Volunteer Organization
 ERIC  PENG 12g Y 16hr 0/5 0sac |Simply Co.
@@ -84,7 +84,7 @@ RAJVI  SHAH 12g N 20hr 0/5 0sac |ITECH-STEM camp
 ANIRUDAN  SIVAPRAKASH 12g Y 0hr 0/5 0sac |
 WAVERLY  SOUVANNACHACK 12g Y 0hr 0/5 0sac |
 SHALEEN R SUNESARA 12g Y 0hr 0/5 0sac |
-YI  SUO 12g Y 0hr 0/5 0sac |
+YI  SUO 12g Y 0hr 1/5 0sac |
 JASMINE N SZABO 12g Y 6hr 0/5 0sac |Key Club*, Second Mile Mission
 LANDON  THOMPSON 12g Y 0hr 0/5 0sac |
 HARUNA  TORIKAI 12g Y 9.37hr 0/5 0sac |Houston Food Bank, Second Mile Mission
@@ -94,6 +94,6 @@ SAMYUKTHA  VENKATESH 12g Y 16hr 0/5 0sac |Houston Tamil Schools
 DANIEL E VILLARREAL 12g Y 10hr 1/5 0sac |Catholic Charities, Mamie George Community Center
 DAVID A VILLAREAL 12g Y 0hr 0/5 0sac |
 ALLISON  WANG 12g Y 0hr 0/5 0sac |
-JIAYI  XIAO 12g Y 3hr 0/5 0sac |Spanish National Honor Society*, Student Council
+JIAYI  XIAO 12g Y 3hr 1/5 0sac |Spanish National Honor Society*, Student Council
 SUMMER  YANG 12g Y 2hr 5/5 0sac |Dulles High School
 YUHAN  ZHOU 12g Y 0hr 0/5 0sac |
