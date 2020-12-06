@@ -1,12 +1,12 @@
 Name Middle Last Grade Dues TotalHrs wNHS SACs| Notes
 RYAN  AARON 12g N 8hr 0/5 0sac |Fellowship in Discipleship
-IKER  AGUIRRE 12g Y 0hr 4/5 0sac |
+IKER  AGUIRRE 12g Y 0hr 5/5 0sac |
 HUMZA  AKHTAR 12g N 11hr 0/5 0sac |Westfield Urgent Care, Lunches of Love
 LUJAIN  ALBALAS 12g Y 0hr 5/5 0sac |
 ELIZABETH M ANDREWS 12g Y 0hr 0/5 0sac |
 NIKI T ARASTO 12g Y 8hr 0/5 0sac |Ranger Camp, Arc of Fort Bend County
-ILHAM A ARYAWAN 12g Y 8hr 0/5 0sac |Bel Inizio, Books for the World, Fort Bend Fit, George Ranch Historical Park
-SIMRAN S ATHAVALE 12g Y 12hr 4/5 0sac |St.Laurence Church Lunch Bags
+ILHAM A ARYAWAN 12g Y 8hr 4/5 0sac |Bel Inizio, Books for the World, Fort Bend Fit, George Ranch Historical Park
+SIMRAN S ATHAVALE 12g Y 12hr 5/5 0sac |St.Laurence Church Lunch Bags
 ALEFIA  AZIZ ALI 12g Y 0hr 0/5 0sac |
 KENNEDY M BARNES 12g Y 0hr 0/5 0sac |
 ANDREW  BARRERA 12g Y 0hr 0/5 0sac |
@@ -31,18 +31,18 @@ BERNICE G FRANCISCO 12g Y 6hr 0/5 0sac |Tedx Talks, Team Ossoff South
 SARAH  GELFER 12g Y 0hr 0/5 0sac |
 PRANAVI  GUPTA 12g Y 0hr 0/5 0sac |
 LYDIA  HASSALL 12g Y 13.5hr 0/5 0sac |The Rise School of Houston, AIR Project
-GRACE Y HE 12g Y 0hr 0/5 0sac |
+GRACE Y HE 12g Y 0hr 5/5 0sac |
 CAROLINE  HUYNH 12g N 7hr 0/5 0sac|Second Mile Mission, Houston Food Bank
 LINDSAY  JACOBS 12g Y 10hr 5/5 0sac |Second Mile Mission Center
 ASHITA  JAIN 12g Y 17hr 5/5 0sac |Sri Kulkarni Phone Banking, Brookdale Senior Living
 AIMEE  JEFFREY-IWELU 12g Y 2hr 0/5 0sac |
 MUKUND S JOSYULA 12g Y 0hr 0/5 0sac |
 DALIA A KAISSI 12g Y 0hr 5/5 0sac |
-ANTHONY  KARAM 12g Y 14hr 4/5 0sac |Social Concerns St.Laurence
+ANTHONY  KARAM 12g Y 14hr 5/5 0sac |Social Concerns St.Laurence
 AASIYAH  KASSAM 12g Y 0hr 0/5 0sac |
 SAIRA Z KHAN 12g Y 0hr 5/5 0sac |
 CHAUDHRY-ALI  KHAN 12g Y 0hr 0/5 0sac |
-ISABELLA K KUMAR 12g N 0hr 5/5 0sac |
+ISABELLA K KUMAR 12g Y 0hr 5/5 0sac |
 CARSON J LAND 12g Y 0hr 0/5 0sac |
 CHRISTIAN E LE 12g Y 0hr 0/5 0sac |
 LOGAN A LEIDER 12g Y 0hr 0/5 0sac |
@@ -53,14 +53,14 @@ AZAHRA A MAHARANI 12g Y 0hr 5/5 0sac |
 ADIBA  MAHJABEEN 12g Y 0hr 0/5 0sac |
 ELISA L MAKNOJIA 12g Y 61hr 4/5 0sac |Ismaili Girl Scouts, Religious Education Center
 SAHIL  MALIK 12g Y 0hr 0/5 0sac |
-DAVID M MALLORY 12g Y 7hr 4/5 0sac |Love for Our Elders, Second Mile Mission
+DAVID M MALLORY 12g Y 7hr 5/5 0sac |Love for Our Elders, Second Mile Mission
 ANJALI M MANI 12g Y 0hr 5/5 0sac |
 HARJYOT K MANN 12g Y 0hr 4/5 0sac |
 NAMITHA  MARIAM JAIMSON 12g Y 15hr 5/5 0sac |
 SHREYA  MEHRA 12g Y 10hr 5/5 0sac |Second Mile Mission
 KHUSHI P MEHTA 12g Y 15hr 0/5 0sac |Looking into Literature
 TAYLOR  MICHEAUX 12g Y 0hr 0/5 0sac |
-PRESLEY N MILLS 12g N 13hr 0/5 0sac |Christ Church Sugar Land, Second Mile Mission, Houston Food Bank
+PRESLEY N MILLS 12g N 13hr 1/5 0sac |Christ Church Sugar Land, Second Mile Mission, Houston Food Bank
 NICHOLAS MITCHELL 12g Y 5.5hr 0/5 0sac |Houston Food Bank, Toward the Dawn Online Church
 IYAN  MOMIN 12g Y 0hr 4/5 0sac |
 ABRAHAM  MUGHAL 12g Y 0hr 0/5 0sac |
@@ -91,7 +91,7 @@ HARUNA  TORIKAI 12g Y 9.37hr 0/5 0sac |Houston Food Bank, Second Mile Mission
 PINAK  TRIPATHI 12g Y 0hr 0/5 0sac |
 SOFIA M VELA 12g Y 0hr 0/5 0sac |
 SAMYUKTHA  VENKATESH 12g Y 16hr 0/5 0sac |Houston Tamil Schools
-DANIEL E VILLARREAL 12g Y 10hr 0/5 0sac |Catholic Charities, Mamie George Community Center
+DANIEL E VILLARREAL 12g Y 10hr 1/5 0sac |Catholic Charities, Mamie George Community Center
 DAVID A VILLAREAL 12g Y 0hr 0/5 0sac |
 ALLISON  WANG 12g Y 0hr 0/5 0sac |
 JIAYI  XIAO 12g Y 3hr 0/5 0sac |Spanish National Honor Society*, Student Council
