@@ -80,7 +80,7 @@ function myFunction()
         {
             document.getElementById("displaySacReason").innerHTML = "Past SACs: "+reason;
         }
-        if(inthrs>=15 && withNHS>=5 && intSACs<3)
+        if(inthrs>=10 && withNHS>=5 && intSACs<3)
         {
             document.getElementById("displayCompletion").innerHTML="Congratulations! You have fulfilled all NHS requirements!";
             document.getElementById("catCeleb").style.opacity=1;
@@ -94,7 +94,7 @@ function myFunction()
             else
             {
                 document.getElementById("displayCompletion").innerHTML=
-                "Remember, you'll need at least 15 volunteer hours (5 from NHS) to fulfill NHS requirements. You'll also need to attend the monthly required meetings.";
+                "Remember, you'll need at least 15 regular volunteer hours (5 with NHS) to fulfill NHS requirements. You'll also need to attend the monthly required meetings.";
                 document.getElementById("displayCompletion").style.lineHeight=1.25;
                 document.getElementById("catCeleb").style.opacity=0;
             }
