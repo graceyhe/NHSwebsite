@@ -64,7 +64,7 @@ function myFunction()
         document.getElementById("displayName").style.fontSize="200%";
         document.getElementById("displayName").style.paddingBottom = "1vw";
         document.getElementById("displayName").style.borderBottom = "4px solid #26a89d";
-        document.getElementById("displayHours").innerHTML="Total Hours: "+hours;
+        document.getElementById("displayHours").innerHTML="Regular Hours: "+hours;
         document.getElementById("displaywithNHS").innerHTML="Hours with NHS: "+withNHS+"/5";
         document.getElementById("displaySACs").innerHTML="SACs: "+SACs;
         var inthrs = parseInt(hours,10);
