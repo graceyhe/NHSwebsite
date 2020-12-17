@@ -1,5 +1,5 @@
 Name Middle Last Grade Dues TotalHrs wNHS SACs| Notes
-RYAN  AARON 12g Y 8hr 3/5 0sac |Fellowship in Discipleship
+RYAN  AARON 12g Y 8hr 4/5 0sac |Fellowship in Discipleship
 IKER  AGUIRRE 12g Y 0hr 5/5 0sac |
 HUMZA  AKHTAR 12g N 11hr 0/5 0sac |Westfield Urgent Care, Lunches of Love
 LUJAIN  ALBALAS 12g Y 0hr 5/5 0sac |
@@ -44,7 +44,7 @@ AASIYAH  KASSAM 12g Y 0hr 0/5 0sac |
 SAIRA Z KHAN 12g Y 0hr 5/5 0sac |
 CHAUDHRY-ALI  KHAN 12g Y 0hr 0/5 0sac |
 ISABELLA K KUMAR 12g Y 10hr 5/5 0sac |
-CARSON J LAND 12g Y 0hr 5/5 0sac |
+CARSON J LAND 12g Y 1hr 5/5 0sac |
 CHRISTIAN E LE 12g Y 58hr 1/5 0sac |
 LOGAN A LEIDER 12g Y 0hr 0/5 0sac |
 LARISSA  LEOTAUD 12g N 15hr 0/5 0sac|UT Neurology
