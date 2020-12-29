@@ -12,7 +12,7 @@ KENNEDY M BARNES 12g Y 10hr 5/5 0sac |
 ANDREW  BARRERA 12g Y 0hr 5/5 0sac |
 MADISON  BENNETT 12g Y 19hr 5/5 0sac |Toys for Tots
 CHANDNI  BHAGTANEY 12g Y 10hr 5/5 0sac |
-RAJYK  BHALA 12g Y 10hr 4/5 0sac |Fort Bend Democratic Party, Clements Ranger Camp
+RAJYK  BHALA 12g Y 12hr 5/5 0sac |Fort Bend Democratic Party, Clements Ranger Camp
 MEERA  BORLE 12g Y 0hr 0/5 0sac |
 SAGE T BUTLER 12g Y 10hr 5/5 0sac |Biden for President
 ZOIE E CAMP 12g Y 10hr 2/5 0sac |St.Laurence Social Concerns
@@ -69,7 +69,7 @@ NICHOLAS MITCHELL 12g Y 5.5hr 0/5 0sac |Houston Food Bank, Toward the Dawn Onlin
 IYAN  MOMIN 12g Y 10hr 5/5 0sac |Letters
 ABRAHAM  MUGHAL 12g Y 10hr 3/5 0sac |Independent Voter Registration Drive, Clements High School Band
 ABHINAYA  MURUGANANDHAM 12g Y 13hr 5/5 0sac |BumbleB Trust
-NATHAN W NASSAR 12g Y 10hr 4/5 0sac |Independent Voter Registration Drive
+NATHAN W NASSAR 12g Y 10hr 5/5 0sac |Independent Voter Registration Drive
 SHRUTI N PATHAK 12g Y 11hr 5/5 0sac |Text Banking, Fall Food Truck Concert, City of Sugar Land
 ANDREW  PAUMEN 12g Y 10hr 5/5 0sac |Second Mile Mission, Sugar Land Parks and Recreation, Sugar Land Volunteer Organization
 ERIC  PENG 12g Y 18hr 5/5 0sac |Simply Co.
@@ -79,7 +79,7 @@ RITHIKA  POTHI 12g Y 18hr 5/5 0sac |Lunches of Love, Teen Service League, Hurric
 ELIZABETH  QUACH 12g Y 10hr 5/5 0sac |
 PAULA ENZABELLE  QUINTO 12g Y 0hr 0/5 0sac |
 LINDA A REFAI 12g Y 11hr 5/5 0sac |Second Mile Mission
-OSCAR  RODEN 12g Y 8hr 5/5 0sac |Independent Voter Registration Drive, Houston Food Bank
+OSCAR  RODEN 12g Y 11hr 5/5 0sac |Independent Voter Registration Drive, Houston Food Bank
 KYLE  RUDOLPH 12g N 3hr 0/5 0sac |East Fort Bend Human Needs
 MAUMITA  SADHUKHAN 12g Y 16hr 5/5 0sac |Text Banking Dem Party, STEMspire
 ASHRITA  SANGHI 12g Y 27hr 5/5 0sac |Text Banking, TSP
