@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 html
 {
   background-image:linear-gradient(to bottom right, rgb(16, 0, 105), rgb(51, 88, 209)); 
@@ -15,7 +19,7 @@ h1
 }
 body 
 {
-    font-family: Candara, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Candara, 'Poppins', Cochin, Georgia, Times, 'Times New Roman', serif;
     /*font-size: 40px;*/
     margin-left: 1vw;
     margin-top: 1vw;
@@ -75,7 +79,7 @@ nav ul.navbar #page {
 }
 nav ul.navbar #page a {
   padding: 2vw;
-  font-family: 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;
+  font-family: 'Lucida Sans Unicode', 'Ubuntu', Arial, Helvetica, sans-serif;
   text-transform:uppercase;
   color: rgb(78, 75, 236);
   text-shadow: 2px 2px 5px rgb(0, 0, 0);
