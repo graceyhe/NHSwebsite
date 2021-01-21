@@ -87,9 +87,9 @@ function myFunction()
         }
         else
         {
-            if(intSACs==3)
+            if(intSACs>=3)
             {
-                document.getElementById("displayCompletion").innerHTML = "Sorry, but you have been removed from NHS for having 3 SACs.";
+                document.getElementById("displayCompletion").innerHTML = "Sorry, but you have been removed from NHS for having 3 or more SACs. Please message an officer if you believe this is a mistake.";
             }
             else
             {
