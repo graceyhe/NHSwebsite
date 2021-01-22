@@ -80,7 +80,7 @@ function myFunction()
         {
             document.getElementById("displaySacReason").innerHTML = "Past SACs: "+reason;
         }
-        if(inthrs>=10 && withNHS>=5 && intSACs<3)
+        if(inthrs>=20 && withNHS>=10 && intSACs<3)
         {
             document.getElementById("displayCompletion").innerHTML="Congratulations! You have fulfilled all NHS requirements!";
             document.getElementById("catCeleb").style.opacity=1;
