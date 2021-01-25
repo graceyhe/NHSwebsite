@@ -15,10 +15,12 @@ function myFunction()
     var pos = result.indexOf(first+" "+middle+" "+last); //found person
     var namleng= first.length+middle.length+last.length+3; // length of name
     var hr = result.indexOf("hr",pos); //hours position (+1)
+    console.log("hello?");
     var hours = result.slice(pos+namleng+6,hr); //hours with nhs
-    var wNHS = result.indexOf("/5",pos); //find number of hours with NHS
-    var withNHS = result.slice(wNHS-1,wNHS);
+    var wNHS = hr+3; //find number of hours with NHS
+    var withNHS = result.slice(wNHS , result.indexOf("/5",hr));
     var findSACs = result.indexOf("sac",pos);
+    console.log("hello?");
     var SACs = result.slice(findSACs-1,findSACs);
     var end = result.indexOf("|",pos); 
     var reason = result.slice(findSACs+4,end);
@@ -65,10 +67,18 @@ function myFunction()
         document.getElementById("displayName").style.paddingBottom = "1vw";
         document.getElementById("displayName").style.borderBottom = "4px solid #26a89d";
         document.getElementById("displayHours").innerHTML="Regular Hours: "+hours;
-        document.getElementById("displaywithNHS").innerHTML="Hours with NHS: "+withNHS+"/5";
+        if(grade==12)
+        {
+            document.getElementById("displaywithNHS").innerHTML="Hours with NHS: "+withNHS+"/10";
+        }
+        else
+        {
+            document.getElementById("displaywithNHS").innerHTML="Hours with NHS: "+withNHS+"/5";
+        }
         document.getElementById("displaySACs").innerHTML="SACs: "+SACs;
         var inthrs = parseInt(hours,10);
         var intSACs = parseInt(SACs,10);
+        //var intNHS = parseInt(withNHS,10);
         //for when we have place requirement
         /*if(inthrs>=15 && places.length>=2)
         {
@@ -76,14 +86,21 @@ function myFunction()
             document.getElementById("catCeleb").style.opacity=1;
             
         }*/
+        //var img = document.createElement("img");
+        //img.src = "img/eqp/"+this.apparel+"/"+this.facing+"";
+        
+        
         if(intSACs>0)
         {
             document.getElementById("displaySacReason").innerHTML = "Past SACs: "+reason;
         }
-        if(inthrs>=20 && withNHS>=10 && intSACs<3)
+        if(inthrs>=20 && intSACs<3)
         {
             document.getElementById("displayCompletion").innerHTML="Congratulations! You have fulfilled all NHS requirements!";
-            document.getElementById("catCeleb").style.opacity=1;
+            //var src = document.getElementById("catJam");
+            //src.appendChild(img);
+            //document.getElementById("catCeleb").style.opacity=1;
+            
         }
         else
         {
@@ -96,7 +113,7 @@ function myFunction()
                 document.getElementById("displayCompletion").innerHTML=
                 "Remember, you'll need at least 15 regular volunteer hours (5 with NHS) to fulfill NHS requirements. You'll also need to attend the monthly required meetings.";
                 document.getElementById("displayCompletion").style.lineHeight=1.25;
-                document.getElementById("catCeleb").style.opacity=0;
+                //document.getElementById("catCeleb").style.opacity=0;
             }
         }
     }
@@ -109,6 +126,7 @@ function myFunction()
         else
         alert("Sorry, couldn't find you in the database, check spelling?");
     }
+    console.log("?????");
     //alert("The form was submitted by "+first+" "+middle+" "+last+" "+result.slice(pos+namleng,pos+namleng+2));
 
 }

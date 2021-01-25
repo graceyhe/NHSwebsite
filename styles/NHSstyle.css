@@ -240,3 +240,15 @@ td.question
 {
   filter:brightness(0.8);
 }
+.hide
+{
+  opacity:0;
+}
+.hide:hover
+{
+  opacity:100;
+}
+#subtle
+{
+  color:#2f88ac;
+}
