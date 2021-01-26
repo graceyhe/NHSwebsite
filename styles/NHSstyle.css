@@ -274,3 +274,7 @@ td.question
   position: absolute;
   pointer-events: none; /*performance optimization*/
 }
+.audio
+{
+  visibility: hidden;
+}
