@@ -18,7 +18,12 @@ function myFunction()
     //console.log("hello?");
     var hours = result.slice(pos+namleng+6,hr); //hours with nhs
     var wNHS = hr+3; //find number of hours with NHS
-    var withNHS = result.slice(wNHS , result.indexOf("/5",hr));
+    var withNHS=0;
+    var grade = result.slice(pos+namleng,pos+namleng+2);
+    if(pos<8009)
+        withNHS = result.slice(wNHS , result.indexOf("/10",hr));
+    else
+        withNHS = result.slice(wNHS , result.indexOf("/5",hr));
     var findSACs = result.indexOf("sac",pos);
     //console.log("hello?");
     var SACs = result.slice(findSACs-1,findSACs);
@@ -36,7 +41,7 @@ function myFunction()
         document.getElementById("displayPlaces").innerHTML="Check out the Volunteer page for potential volunteering opportunities!";
     }*/
     //alert("Number of hours: "+hours);
-    
+    //console.log(result.indexOf("New Members"));
     if(pos!=-1 && namleng>3)
     {
         if(first.includes(" "))
@@ -46,7 +51,6 @@ function myFunction()
         else
         var dispName = first.toString().slice(0,1)+first.toString().slice(1,first.length).toLowerCase();
         document.getElementById("displayName").innerHTML="Hello "+dispName+"!";
-        var grade = result.slice(pos+namleng,pos+namleng+2);
         var dues = result.slice(pos+namleng+4,pos+namleng+5);
         //paid dues? (Y/N), only consider if not a senior
         if(dues.localeCompare("Y")==0)
@@ -67,7 +71,7 @@ function myFunction()
         document.getElementById("displayName").style.paddingBottom = "1vw";
         document.getElementById("displayName").style.borderBottom = "4px solid #26a89d";
         document.getElementById("displayHours").innerHTML="Regular Hours: "+hours;
-        if(grade==12)
+        if(pos<8009)
         {
             document.getElementById("displaywithNHS").innerHTML="Hours with NHS: "+withNHS+"/10";
         }
@@ -94,7 +98,7 @@ function myFunction()
         {
             document.getElementById("displaySacReason").innerHTML = "Past SACs: "+reason;
         }
-        if(inthrs>=20 && intSACs<3)
+        if(inthrs>=100 && intSACs<3)
         {
             document.getElementById("displayCompletion").innerHTML="Congratulations! You have fulfilled all NHS requirements!";
             //var src = document.getElementById("catJam");
