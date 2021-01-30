@@ -6,9 +6,9 @@ IKER  AGUIRRE 12g Y 10hr 5/10 0sac |Finish Line Sport, Planet Four: Zooniverse
 HUMZA  AKHTAR 12g N 11hr 0/10 0sac |Westfield Urgent Care, Lunches of Love
 LUJAIN  ALBALAS 12g Y 10hr 5/10 0sac |Letters for Lifesavers
 ELIZABETH M ANDREWS 12g Y 10hr 5/10 0sac |
-NIKI T ARASTO 12g Y 10hr 5/10 0sac |Ranger Camp, Arc of Fort Bend County
+NIKI T ARASTO 12g Y 12hr 5/10 0sac |Ranger Camp, Arc of Fort Bend County
 ILHAM A ARYAWAN 12g Y 13hr 5/10 0sac |Bel Inizio, Books for the World, Fort Bend Fit, George Ranch Historical Park, Seabook Rotary
-SIMRAN S ATHAVALE 12g Y 17hr 5/10 0sac |St.Laurence Church Lunch Bags, Students for Tomorrow
+SIMRAN S ATHAVALE 12g Y 23hr 5/10 0sac |St.Laurence Church Lunch Bags, Students for Tomorrow, Shared Dreams
 ALEFIA  AZIZ ALI 12g Y 10hr 5/10 0sac |Aga Khan Organization
 KENNEDY M BARNES 12g Y 10hr 5/10 0sac |
 ANDREW  BARRERA 12g Y 0hr 5/10 2sac Missed October Meeting, Missing 10 regular hrs|
@@ -30,7 +30,7 @@ CHLOE  DANG 12g Y 12hr 5/10 0sac |Simply Co.
 ANNIKA N ELISHA 12g Y 0hr 0/10 5sac Missed September Meeting, Missed October Meeting, Missed November Meeting, Missed December Meeting, Missing 5 NHS hrs and 10 regular hrs|
 ZUNAIRA  FAROOQ 12g N 5hr 0/10 0sac |Risala
 RACHEL E FOUX 12g Y 11hr 5/10 0sac |The Women's Home
-BERNICE G FRANCISCO 12g Y 11hr 4/10 2sac Missed October Meeting, Missing 1 NHS hr|Tedx Talks, Team Ossoff South, Social Concerns Ministry, St. Laurence Lunches of Love
+BERNICE G FRANCISCO 12g Y 12hr 4/10 2sac Missed October Meeting, Missing 1 NHS hr|Tedx Talks, Team Ossoff South, Social Concerns Ministry, St. Laurence Lunches of Love, Shared Dreams Drive
 SARAH  GELFER 12g Y 0hr 0/10 0sac |
 CAITLIN  GOLDWAIT 12g Y 10hr 5/10 2sac Missed September Meeting, Late/Did Not Pay Dues|
 PRANAVI  GUPTA 12g Y 10hr 5/10 0sac |Key Club, Clements Girls in COmputing
@@ -72,15 +72,15 @@ NATHAN W NASSAR 12g Y 13hr 5/10 0sac |Independent Voter Registration Drive
 SHRUTI N PATHAK 12g Y 11hr 5/10 2sac Missed October Meeting, Late/Did Not Pay Dues|Text Banking, Fall Food Truck Concert, City of Sugar Land
 ANDREW  PAUMEN 12g Y 10hr 5/10 0sac |Second Mile Mission, Sugar Land Parks and Recreation, Sugar Land Volunteer Organization
 ERIC  PENG 12g Y 18hr 5/10 0sac |Simply Co.
-ANNIKA  POONIA 12g Y 0hr 5/10 1sac Missing 10 regular hrs|
+ANNIKA  POONIA 12g Y 5hr 5/10 1sac Missing 10 regular hrs|Shared Dreams
 SANJANA S PORAY 12g Y 10hr 5/10 0sac |
 RITHIKA  POTHI 12g Y 18hr 5/10 1sac Missed September Meeting|Lunches of Love, Teen Service League, Hurricane Preparedness
 ELIZABETH  QUACH 12g Y 10hr 5/10 0sac |
 PAULA ENZABELLE  QUINTO 12g Y 0hr 0/10 0sac |
-LINDA A REFAI 12g Y 14hr 5/10 0sac |Second Mile Mission
+LINDA A REFAI 12g Y 15hr 5/10 0sac |Second Mile Mission
 OSCAR  RODEN 12g Y 14hr 5/10 0sac |Independent Voter Registration Drive, Houston Food Bank
 MAUMITA  SADHUKHAN 12g Y 16hr 5/10 0sac |Text Banking Dem Party, STEMspire
-ASHRITA  SANGHI 12g Y 27hr 5/10 0sac |Text Banking, TSP
+ASHRITA  SANGHI 12g Y 29hr 5/10 0sac |Text Banking, TSP, Love for Our Elders
 SREERAM S SATISH 12g Y 0hr 0/10 4sac Missed October Meeting, Missed November Meeting, Missed December Meeting, Late/Did Not Pay Dues|
 CATHERINE E SCOTT 12g Y 11hr 5/10 0sac |Colony Meadows Elementary
 ANIRUDAN  SIVAPRAKASH 12g Y 0hr 0/10 3sac Missed October Meeting, Missed December Meeting, Missing 5 NHS hrs and 10 regular hrs|
@@ -145,7 +145,7 @@ LILIA  MITRA 11g Y 0hr 0/5 0sac |
 GABRIELLE  MOCK 11g Y 0hr 0/5 0sac |
 ASHIQA  MODI 11g Y 0hr 0/5 0sac |
 NATHANIEL  MORRIS 11g Y 0hr 0/5 0sac |
-MASON  MYERS 11g Y 0hr 0/5 0sac |
+MASON  MYERS 11g Y 5hr 0/5 0sac |FBISD Shared Dreams
 HANNAH  NGUYEN 11g Y 0hr 0/5 0sac |
 KELECHI  OKOROAFOR 11g Y 0hr 0/5 0sac |
 REGINA  OLVERA SANDOVAL 11g Y 0hr 0/5 0sac |
