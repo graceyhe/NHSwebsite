@@ -86,6 +86,7 @@ function myFunction()
         document.getElementById("displayName").style.paddingBottom = "1vw";
         document.getElementById("displayName").style.borderBottom = "4px solid #26a89d";
         document.getElementById("catCeleb").style.opacity=0;
+        document.getElementById("displayCompletion").innerHTML="";
         if(checked)
         {
           document.getElementById("displayHours").innerHTML="<b>Regular Hours:</b> "+hours+ " out of 10";
@@ -120,8 +121,9 @@ function myFunction()
           if(inthrs>=10 && intSACs<3 && intwNHS==5)
           {
               document.getElementById("displayCompletion").innerHTML=
-              "Congrats! You fulfilled NHS requirements in the fall semester."
+              "<br> Congrats! You fulfilled NHS requirements in the fall semester."
               document.getElementById("catCeleb").style.opacity=1;
+              document.getElementById("catCeleb").style.width="8vw";
           }
           else
           {
@@ -148,12 +150,18 @@ function myFunction()
           {
               document.getElementById("displayCompletion").innerHTML=
               "<br> Congrats! You fulfilled NHS requirements!"
+              document.getElementById("catCeleb").style.opacity=1;
+              document.getElementById("catCeleb").style.width="8vw";
           }
           else
           {
               if(intSACs>=3)
               {
                   document.getElementById("displayCompletion").innerHTML = "Sorry, but you have been removed from NHS for having 3 or more SACs. Please message an officer if you believe this is a mistake.";
+              }
+              else
+              {
+                document.getElementById("displayCompletion").innerHTML = "<br><i>I wonder what happens when I get all the requirements?</i> 😳😳😳"
               }
           }
         }
