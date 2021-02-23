@@ -23,7 +23,7 @@
         </ul>
     </nav>
     <table>
-        <tr">
+        <tr>
             <td style="width:40%">
                <form id="database" onsubmit="myFunction();return false">
                     <span style="border-bottom: 4px solid rgb(1, 126, 175);font-weight:bold; font-size: 200%">NHS Database</span>
@@ -32,7 +32,11 @@
                     <br><br>
                     <input type="text" id="mname" name="mname" placeholder="Middle Initial (optional)">
                     <br><br>
-                    <input type="text" id="lname" name="lname" placeholder="Last Name"><br><br>
+                    <input type="text" id="lname" name="lname" placeholder="Last Name">
+                    <br><br>
+                    <input type="checkbox" id="fallData" name="fallDataCheck" value="dataCheck">
+                    <label for="fallData"> View Fall Semester Data <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Senior members only)</label>
+                    <br><br>
                     <input type="submit" value="Submit">
                 </form> 
             </td>
@@ -53,12 +57,10 @@
                 <div id="displaySACs" style="margin-bottom:.5vw"></div>
                 <div id="displaySacReason" style="margin-bottom:.5vw;"></div>
                 <div id="displayCompletion" style="margin-bottom:.5vw;"></div>
-                <div id="catJam" class = "img" style ="margin-bottom:.5vw;"></div>
-                <audio id="celebrateMusic" src = "celebrateMusic.mp3"></audio>
-                <div id="emitter"></div>
+                <img src="https://images-ext-2.discordapp.net/external/S-BwQSix8Irh8aYVyoG0P-vKUu-qMw06RZOSshq87Yo/https/media.discordapp.net/attachments/289170611849396225/740310724584407181/image0-30.gif" id="catCeleb" alt="catJam">
                 <div style = "font-weight:bold">Last Updated: 1/29</div>
                 <br>
-                <div style = "font-weight:bold">All SACs and hours should be in! New members have also been added. Check to make sure that your profile is alright. If you have any problems or would like to change your preferred name, again, message Grace!</div>
+                <div style = "font-weight:bold"></div>
             </td>
         </tr>
     </table>
