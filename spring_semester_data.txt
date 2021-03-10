@@ -1,13 +1,13 @@
 Name Middle Last Grade Dues TotalHrs wNHS SACs| Notes
 
 Old Members
-RYAN  AARON 12g Y 0/10 0/5 0sac |
+RYAN  AARON 12g Y 5/10 0/5 0sac |Memorial Drive Presbyterian Church
 IKER  AGUIRRE 12g Y 0/10 0/5 2sac Missed January Meeting, Missed February Meeting|
 LUJAIN  ALBALAS 12g Y 0/10 0/5 0sac |
 ELIZABETH M ANDREWS 12g Y 0/10 0/5 0sac |
 NIKI T ARASTO 12g Y 2/10 0/5 0sac |Arc of Fort Bend County
 ILHAM A ARYAWAN 12g Y 10/10 0/5 0sac |George Ranch Historical Park, Rotary Club of Seabrook, USA FIT Marathon
-SIMRAN S ATHAVALE 12g Y 6/10 0/5 1sac Missed February Meeting|Students for Tomorrow, Shared Dreams
+SIMRAN S ATHAVALE 12g Y 12/10 0/5 1sac Missed February Meeting|Students for Tomorrow, Shared Dreams, St. Laurence
 ALEFIA  AZIZ ALI 12g Y 0/10 0/5 0sac |
 KENNEDY M BARNES 12g Y 0/10 0/5 0sac |
 ANDREW  BARRERA 12g Y 0/30 0/5 0sac |
@@ -17,7 +17,7 @@ RAJYK  BHALA 12g Y 0/10 0/5 0sac |
 MEERA  BORLE 12g Y 0/30 0/15 2sac Missed January Meeting, Missed February Meeting|
 SAGE T BUTLER 12g Y 0/10 0/5 0sac |
 ZOIE E CAMP 12g Y 0/10 0/5 0sac |
-SHAAN J CHANCHANI 12g Y 0/20 0/5 0sac |
+SHAAN J CHANCHANI 12g Y 5/20 0/5 0sac |Fort Bend Education Foundation
 SAMIKSHA  CHANDRAN 12g Y 0/10 0/5 0sac |
 KATHRYN G CHEN 12g Y 1/10 0/5 0sac |Exceptional Care for Children
 MICHELLE L CHEN 12g Y 0/10 0/5 0sac |
@@ -28,14 +28,14 @@ NICHOLAS A DAMIANO 12g Y 0/10 0/5 0sac |
 CHLOE  DANG 12g Y 0/10 0/5 0sac |
 ANNIKA N ELISHA 12g Y 0/30 0/15 2sac Missed January Meeting, Missed February Meeting|
 RACHEL E FOUX 12g Y 0/10 0/5 0sac |
-BERNICE G FRANCISCO 12g Y 1/10 0/5 0sac |Shared Dreams Drive
+BERNICE G FRANCISCO 12g Y 2/10 0/5 0sac |Shared Dreams Drive, National English Society
 SARAH  GELFER 12g Y 0/30 0/15 0sac |
 CAITLIN  GOLDWAIT 12g Y 0/10 0/5 1sac Missed January Meeting|
 PRANAVI  GUPTA 12g Y 0/10 0/5 0sac |
 LYDIA  HASSALL 12g Y 0/10 0/5 0sac |
 GRACE Y HE 12g Y 10/10 5/5 0sac |
 CAROLINE  HUYNH 12g Y 0/10 0/5 0sac |
-LINDSAY  JACOBS 12g Y 0/10 0/5 0sac |
+LINDSAY  JACOBS 12g Y 10/10 0/5 0sac |Second Mile Mission Center, Homeland Preparedness Project
 ASHITA  JAIN 12g Y 0/10 0/5 0sac |
 AIMEE  JEFFREY-IWELU 12g Y 0/26 0/15 0sac |
 MUKUND S JOSYULA 12g Y 0/30 0/15 0sac |
@@ -63,7 +63,7 @@ FELIPE  MEDRADO 12g Y 0/10 0/5 0sac |
 SHREYA  MEHRA 12g Y 0/10 0/5 0sac |
 KHUSHI P MEHTA 12g Y 0/10 0/5 0sac |
 TAYLOR  MICHEAUX 12g Y 0/30 0/15 0sac |
-PRESLEY N MILLS 12g Y 2/10 0/5 0sac |Shared Dreams
+PRESLEY N MILLS 12g Y 9/10 0/5 0sac |Shared Dreams, NHS Curriculum Night, Homeland Preparedness Project
 IYAN  MOMIN 12g Y 0/10 0/5 0sac |
 ABRAHAM  MUGHAL 12g Y 0/10 0/5 0sac |
 ABHINAYA  MURUGANANDHAM 12g Y 0/10 0/5 0sac |
@@ -81,7 +81,7 @@ OSCAR  RODEN 12g Y 0/10 0/5 0sac |
 MAUMITA  SADHUKHAN 12g Y 0/10 0/5 0sac |
 ASHRITA  SANGHI 12g Y 2/10 0/5 0sac |Love for Our Elders
 SREERAM S SATISH 12g Y 0/30 0/15 2sac Missed January Meeting, Missed February Meeting|
-CATHERINE E SCOTT 12g Y 0/10 0/5 0sac |
+CATHERINE E SCOTT 12g Y 5/10 0/5 0sac |FBISD Education Foundation
 ANIRUDAN  SIVAPRAKASH 12g Y 0/30 0/15 2sac Missed January Meeting, Missed February Meeting|
 SHALEEN R SUNESARA 12g Y 0/10 0/5 0sac |
 YI  SUO 12g Y 3/20 0/7 1sac Missed January Meeting|Clements Key Club
@@ -117,7 +117,7 @@ GRACE  DEHNER 11g Y 0/10 0/5 0sac |
 ERIN  FUCHS 11g Y 0/10 0/5 0sac |
 SALONI  GAJWANI 11g Y 0/10 0/5 0sac |
 KACEY  GUO 11g Y 0/10 0/5 0sac |
-SUSAN  HUANG 11g Y 4/10 0/5 0sac |Fort Bend Museum
+SUSAN  HUANG 11g Y 8/10 0/5 0sac |Fort Bend Museum, Clements Mental Health Club, Arc of Fort Bend County
 ANNA  HUANG 11g Y 0/10 0/5 0sac |
 RUBEENA  HUSSAIN 11g Y 0/10 0/5 0sac |
 AYESHA  HUSSAIN 11g Y 0/10 0/5 0sac |
@@ -145,7 +145,7 @@ LILIA  MITRA 11g Y 0/10 0/5 0sac |
 GABRIELLE  MOCK 11g Y 2/10 0/5 0sac |Shared Dreams
 ASHIQA  MODI 11g Y 0/10 0/5 0sac |
 NATHANIEL  MORRIS 11g Y 0/10 0/5 0sac |
-MASON  MYERS 11g Y 7/10 0/5 0sac |FBISD Shared Dreams, Second Mile Mission
+MASON  MYERS 11g Y 9/10 0/5 0sac |FBISD Shared Dreams, Second Mile Mission
 HANNAH  NGUYEN 11g Y 0/10 0/5 0sac |
 KELECHI  OKOROAFOR 11g Y 0/10 0/5 0sac |
 REGINA  OLVERA SANDOVAL 11g Y 0/10 0/5 0sac |
@@ -165,7 +165,7 @@ CIARA  SANCHEZ 11g Y 0/10 0/5 0sac |
 RAJVI  SHAH 11g Y 0/10 0/5 0sac |
 VALERIA  SHUM FENG 11g Y 0/10 0/5 0sac |
 WAVERLY  SOUVANNACHACK 11g Y 0/10 0/5 0sac |
-THARSHINI  SUBASH 11g Y 0/10 0/5 0sac |
+THARSHINI  SUBASH 11g Y 1.5/10 0/5 0sac |NHS Curriculum Night
 VIVEK  TALLAVAJHULA 11g Y 0/10 0/5 0sac |
 ZACHARY  TEMPLETON 11g Y 0/10 0/5 0sac |
 BRITTAIN  TRAN  11g Y 0/10 0/5 0sac |
