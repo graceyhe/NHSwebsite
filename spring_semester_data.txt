@@ -29,7 +29,7 @@ CHLOE  DANG 12g Y 0/10 0/5 0sac |
 ANNIKA N ELISHA 12g Y 0/30 0/15 2sac Missed January Meeting, Missed February Meeting|
 RACHEL E FOUX 12g Y 0/10 0/5 0sac |
 BERNICE G FRANCISCO 12g Y 2/10 0/5 0sac |Shared Dreams Drive, National English Society
-SARAH  GELFER 12g Y 0/30 0/15 0sac |
+SARAH  GELFER 12g Y 0/10 0/5 0sac |
 CAITLIN  GOLDWAIT 12g Y 0/10 0/5 1sac Missed January Meeting|
 PRANAVI  GUPTA 12g Y 0/10 0/5 0sac |
 LYDIA  HASSALL 12g Y 0/10 0/5 0sac |
@@ -208,7 +208,6 @@ CHLOE  DANG 12g Y 12hr 5/5 0sac |Simply Co.
 ANNIKA N ELISHA 12g Y 0hr 0/5 5sac Missed September Meeting, Missed October Meeting, Missed November Meeting, Missed December Meeting, Missing 5 NHS hrs and 10 regular hrs|
 RACHEL E FOUX 12g Y 11hr 5/5 0sac |The Women's Home
 BERNICE G FRANCISCO 12g Y 11hr 5/5 1sac Missed October Meeting|Tedx Talks, Team Ossoff South, Social Concerns Ministry, St. Laurence Lunches of Love
-SARAH  GELFER 12g Y 0hr 0/5 0sac |
 CAITLIN  GOLDWAIT 12g Y 10hr 5/5 2sac Missed September Meeting, Late/Did Not Pay Dues|
 PRANAVI  GUPTA 12g Y 10hr 5/5 0sac |Key Club, Clements Girls in COmputing
 LYDIA  HASSALL 12g Y 15.5hr 5/5 0sac |The Rise School of Houston, AIR Project
