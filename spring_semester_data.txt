@@ -54,13 +54,13 @@ AZAHRA A MAHARANI 12g Y 0/10 0/5 0sac |
 ADIBA  MAHJABEEN 12g Y 0/30 0/15 0sac |
 ELISA L MAKNOJIA 12g Y 0/10 0/7 2sac Missed January Meeting, Missed February Meeting|
 SAHIL  MALIK 12g Y 0/30 0/15 0sac |
-DAVID M MALLORY 12g Y 0/10 0/5 0sac |
+DAVID M MALLORY 12g Y 4/10 0/5 0sac |Second Mile Mission
 ANJALI M MANI 12g Y 0/10 0/5 0sac |
 HARJYOT K MANN 12g Y 0/10 0/5 0sac |
 NAMITHA  MARIAM JAIMSON 12g Y 0/10 0/5 1sac Missed February Meeting|
 MEGAN  MCKAY 12g Y 0/10 0/5 2sac Missed January Meeting, Missed February Meeting|
 FELIPE  MEDRADO 12g Y 0/10 0/5 0sac |
-SHREYA  MEHRA 12g Y 0/10 0/5 0sac |
+SHREYA  MEHRA 12g Y 4/10 0/5 0sac |Second Mile Mission
 KHUSHI P MEHTA 12g Y 0/10 0/5 0sac |
 TAYLOR  MICHEAUX 12g Y 0/30 0/15 0sac |
 PRESLEY N MILLS 12g Y 9/10 0/5 0sac |Shared Dreams, NHS Curriculum Night, Homeland Preparedness Project
@@ -87,7 +87,7 @@ SHALEEN R SUNESARA 12g Y 0/10 0/5 0sac |
 YI  SUO 12g Y 3/20 0/7 1sac Missed January Meeting|Clements Key Club
 JASMINE N SZABO 12g Y 0/10 0/5 0sac |
 LANDON  THOMPSON 12g Y 0/10 0/5 0sac |
-HARUNA  TORIKAI 12g Y 0/10 0/5 0sac |
+HARUNA  TORIKAI 12g Y 6/10 0/5 0sac |Japan-American Society of Houston
 PINAK  TRIPATHI 12g Y 0/10 0/5 0sac |
 SOFIA M VELA 12g Y 0/10 0/5 0sac |
 SAMYUKTHA  VENKATESH 12g Y 0/10 0/5 0sac |
@@ -134,7 +134,7 @@ CHAUDHRY-ALI  KHAN 11g Y 16/10 0/5 0sac |
 VISHRUTH KODIKANTI 12g Y 0/10 0/5 0sac |
 SHREYA  KRISHNAN 11g Y 0/10 0/5 0sac |
 ACQUIN  KULKARNI 11g Y 0/10 0/5 0sac |
-ZAWI  LAKHANI 11g Y 0/10 0/5 0sac |
+ZAWI  LAKHANI 11g Y 5/10 0/5 0sac |Fort Bend Education Foundation
 LARISSA  LEOTAUD 11g N 1/10 0/5 0sac |Virtual Pre Health Shadowing
 SOPHIA  LIU 11g Y 0/10 0/5 0sac |
 JUAN  LUNA DURAN 11g Y 0/10 0/5 0sac |
@@ -173,7 +173,7 @@ JULIETTE  VAN DIJK 11g Y 4/10 0/5 0sac |Shared Dreams
 RHYS  VENNEMA 11g Y 0/10 0/5 0sac |
 NAISHA  VINAYAK 11g Y 0/10 0/5 0sac |
 ZAFINA  VIRANI 11g Y 0/10 0/5 0sac |
-ALEXANDER  VITEK 11g Y 4/10 0/5 0sac |Houston Food Bank
+ALEXANDER  VITEK 11g Y 8/10 0/5 0sac |Houston Food Bank
 ADITI  VOHRA 11g Y 0/10 0/5 0sac |
 ZAYNAH  YOUSUF 11g Y 0/10 0/5 0sac |
 CHRISTINE  YUAN 11g Y 0/10 0/5 0sac |
