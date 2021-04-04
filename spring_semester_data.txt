@@ -5,7 +5,7 @@ RYAN  AARON 12g Y 5/10 0/5 0sac |Memorial Drive Presbyterian Church
 IKER  AGUIRRE 12g Y 0/10 0/5 2sac Missed January Meeting, Missed February Meeting|
 LUJAIN  ALBALAS 12g Y 0/10 0/5 0sac |
 ELIZABETH M ANDREWS 12g Y 0/10 0/5 0sac |
-NIKI T ARASTO 12g Y 2/10 0/5 0sac |Arc of Fort Bend County
+NIKI T ARASTO 12g Y 4/10 0/5 0sac |Arc of Fort Bend County
 ILHAM A ARYAWAN 12g Y 10/10 0/5 0sac |George Ranch Historical Park, Rotary Club of Seabrook, USA FIT Marathon
 SIMRAN S ATHAVALE 12g Y 12/10 0/5 1sac Missed February Meeting|Students for Tomorrow, Shared Dreams, St. Laurence
 ALEFIA  AZIZ ALI 12g Y 0/10 0/5 0sac |
@@ -20,27 +20,27 @@ ZOIE E CAMP 12g Y 0/10 0/5 0sac |
 SHAAN J CHANCHANI 12g Y 5/20 0/5 0sac |Fort Bend Education Foundation
 SAMIKSHA  CHANDRAN 12g Y 0/10 0/5 0sac |
 KATHRYN G CHEN 12g Y 1/10 0/5 0sac |Exceptional Care for Children
-MICHELLE L CHEN 12g Y 0/10 0/5 0sac |
+MICHELLE L CHEN 12g Y 9/10 0/5 0sac |FASCA
 ABBY M COUTURE 12g Y 0/10 0/5 0sac |
-ARDEN C CULVER 12g Y 0/10 0/5 0sac |
+ARDEN C CULVER 12g Y 5/10 0/5 0sac |CHS Baseball
 MATTHEW  CUPICH 12g Y 0/30 0/15 2sac Missed January Meeting, Missed February Meeting|
 NICHOLAS A DAMIANO 12g Y 0/10 0/5 0sac |
 CHLOE  DANG 12g Y 0/10 0/5 0sac |
 ANNIKA N ELISHA 12g Y 0/30 0/15 2sac Missed January Meeting, Missed February Meeting|
 RACHEL E FOUX 12g Y 0/10 0/5 0sac |
 BERNICE G FRANCISCO 12g Y 2/10 0/5 0sac |Shared Dreams Drive, National English Society
-SARAH  GELFER 12g Y 0/10 0/5 0sac |
+SARAH  GELFER 12g Y 12/10 0/5 0sac |UTHealth, Rotary Club of Seabrook
 CAITLIN  GOLDWAIT 12g Y 0/10 0/5 1sac Missed January Meeting|
 PRANAVI  GUPTA 12g Y 0/10 0/5 0sac |
 LYDIA  HASSALL 12g Y 0/10 0/5 0sac |
 GRACE Y HE 12g Y 10/10 5/5 0sac |
 CAROLINE  HUYNH 12g Y 0/10 0/5 0sac |
 LINDSAY  JACOBS 12g Y 10/10 0/5 0sac |Second Mile Mission Center, Homeland Preparedness Project
-ASHITA  JAIN 12g Y 0/10 0/5 0sac |
+ASHITA  JAIN 12g Y 6/10 0/5 0sac |Homeland Preparedness Project
 AIMEE  JEFFREY-IWELU 12g Y 0/26 0/15 0sac |
 MUKUND S JOSYULA 12g Y 0/30 0/15 0sac |
 DALIA A KAISSI 12g Y 0/10 0/5 0sac |
-ANTHONY  KARAM 12g Y 0/10 0/5 0sac |
+ANTHONY  KARAM 12g Y 12/10 0/5 0sac |Social Concerns St. Laurence
 AASIYAH  KASSAM 12g Y 0/30 0/15 0sac |
 SAIRA Z KHAN 12g Y 0/10 0/5 0sac |
 ISABELLA K KUMAR 12g Y 0/10 0/5 0sac |
@@ -60,16 +60,16 @@ HARJYOT K MANN 12g Y 0/10 0/5 0sac |
 NAMITHA  MARIAM JAIMSON 12g Y 0/10 0/5 1sac Missed February Meeting|
 MEGAN  MCKAY 12g Y 0/10 0/5 2sac Missed January Meeting, Missed February Meeting|
 FELIPE  MEDRADO 12g Y 0/10 0/5 0sac |
-SHREYA  MEHRA 12g Y 4/10 0/5 0sac |Second Mile Mission
+SHREYA  MEHRA 12g Y 6/10 0/5 0sac |Second Mile Mission, Sugar Land Animal Services
 KHUSHI P MEHTA 12g Y 0/10 0/5 0sac |
 TAYLOR  MICHEAUX 12g Y 0/30 0/15 0sac |
-PRESLEY N MILLS 12g Y 9/10 0/5 0sac |Shared Dreams, NHS Curriculum Night, Homeland Preparedness Project
+PRESLEY N MILLS 12g Y 12/10 0/5 0sac |Shared Dreams, NHS Curriculum Night, Homeland Preparedness Project, Houston Food Bank
 IYAN  MOMIN 12g Y 0/10 0/5 0sac |
 ABRAHAM  MUGHAL 12g Y 0/10 0/5 0sac |
 ABHINAYA  MURUGANANDHAM 12g Y 0/10 0/5 0sac |
 NATHAN W NASSAR 12g Y 0/10 0/5 0sac |
 SHRUTI N PATHAK 12g Y 0/10 0/5 1sac Missed February Meeting|
-ANDREW  PAUMEN 12g Y 0/10 0/5 0sac |
+ANDREW  PAUMEN 12g Y 5/10 0/5 0sac |Sugar Land Volunteer Organization
 ERIC  PENG 12g Y 0/10 0/5 0sac |
 ANNIKA  POONIA 12g Y 5/20 0/5 0sac |Shared Dreams
 SANJANA S PORAY 12g Y 0/10 0/5 0sac |
@@ -105,11 +105,11 @@ ANDREW  ALAN 11g Y 0/10 0/5 0sac |
 RACHEL  BAI 11g Y 0/10 0/5 0sac |
 KABIR  BORLE 11g Y 0/10 0/5 0sac |
 ALI  BUDHWANI 11g Y 0/10 0/5 0sac |
-ERIC  CABRERA 11g Y 0/10 0/5 0sac |
+ERIC  CABRERA 11g Y 7.5/10 0/5 0sac |Rosenberg-Richmond Helping Hands
 KAITLYN  CAMPBELL 11g Y 0/10 0/5 0sac |
-SAKET  CHAMARTI 11g Y 0/10 0/5 0sac |
-MICHELLE  CHANG 11g Y 0/10 0/5 0sac |
-ETHAN  CHANG 11g Y 0/10 0/5 0sac |
+SAKET  CHAMARTI 11g Y 10/10 0/5 0sac |Rosenberg Richmond Helping Hands
+MICHELLE  CHANG 11g Y 3.5/10 0/5 0sac |Creative Hearts Camp 
+ETHAN  CHANG 11g Y 8/10 0/5 0sac |Second Mile, Sugar Land Petopia
 JOSEPH  CHAU 11g Y 0/10 0/5 0sac |
 ERIC  CHEN 11g Y 0/10 0/5 0sac |
 GABRIEL  COTE 11g Y 0/10 0/5 0sac |
@@ -142,7 +142,7 @@ GAEL  MAMENTA 11g Y 0/10 0/5 0sac |
 LANDER  MEINEN 11g Y 0/10 0/5 0sac |
 NICHOLAS MITCHELL 11g Y 0/10 0/5 0sac |
 LILIA  MITRA 11g Y 0/10 0/5 0sac |
-GABRIELLE  MOCK 11g Y 2/10 0/5 0sac |Shared Dreams
+GABRIELLE  MOCK 11g Y 5/10 0/5 0sac |Shared Dreams, Creative Hearts Camp
 ASHIQA  MODI 11g Y 0/10 0/5 0sac |
 NATHANIEL  MORRIS 11g Y 0/10 0/5 0sac |
 MASON  MYERS 11g Y 9/10 0/5 0sac |FBISD Shared Dreams, Second Mile Mission
@@ -156,7 +156,7 @@ MANSI  PATEL 11g Y 0/10 0/5 0sac |
 CHRISTINA  PENDLETON 11g Y 10/10 0/5 0sac |Clarewood House
 MIKOLAS  QUINONES 11g Y 0/10 0/5 0sac |
 PAULA  QUINTO 11g Y 0/10 0/5 0sac |
-SURABHI  RAMALINGAM 11g Y 0/10 0/5 0sac |
+SURABHI  RAMALINGAM 11g Y 10/10 0/5 0sac |Bored of Boredom
 NORAH  RAMI  11g Y 0/10 0/5 0sac |
 TANYA  RATNANI 11g Y 0/10 0/5 0sac |
 SHREY  ROY  11g Y 0/10 0/5 0sac |
@@ -165,18 +165,18 @@ CIARA  SANCHEZ 11g Y 0/10 0/5 0sac |
 RAJVI  SHAH 11g Y 0/10 0/5 0sac |
 VALERIA  SHUM FENG 11g Y 0/10 0/5 0sac |
 WAVERLY  SOUVANNACHACK 11g Y 0/10 0/5 0sac |
-THARSHINI  SUBASH 11g Y 1.5/10 0/5 0sac |NHS Curriculum Night
+THARSHINI  SUBASH 11g Y 6.5/10 0/5 0sac |NHS Curriculum Night, Fort Bend Education Foundation
 VIVEK  TALLAVAJHULA 11g Y 0/10 0/5 0sac |
 ZACHARY  TEMPLETON 11g Y 0/10 0/5 0sac |
 BRITTAIN  TRAN  11g Y 0/10 0/5 0sac |
-JULIETTE  VAN DIJK 11g Y 4/10 0/5 0sac |Shared Dreams
+JULIETTE  VAN DIJK 11g Y 7/10 0/5 0sac |Shared Dreams, Creative Hearts Camp
 RHYS  VENNEMA 11g Y 0/10 0/5 0sac |
 NAISHA  VINAYAK 11g Y 0/10 0/5 0sac |
 ZAFINA  VIRANI 11g Y 0/10 0/5 0sac |
-ALEXANDER  VITEK 11g Y 8/10 0/5 0sac |Houston Food Bank
-ADITI  VOHRA 11g Y 0/10 0/5 0sac |
+ALEXANDER  VITEK 11g Y 10/10 0/5 0sac |Houston Food Bank, City of Sugar Land - Animal Services
+ADITI  VOHRA 11g Y 15/10 0/5 0sac |GMS Fort Bend
 ZAYNAH  YOUSUF 11g Y 0/10 0/5 0sac |
-CHRISTINE  YUAN 11g Y 0/10 0/5 0sac |
+CHRISTINE  YUAN 11g Y 6/10 0/5 0sac |Rotary, FSMS
 GREGORY  ZACHARIAH 11g Y 0/10 0/5 0sac |
 
 Fall Semester Data
