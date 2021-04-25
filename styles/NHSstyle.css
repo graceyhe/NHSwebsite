@@ -148,7 +148,7 @@ td.header{
 }
 
 td{
-  /*padding-bottom:1vw;*/
+  padding-bottom:1vw;
   line-height:1.6vw;
   vertical-align:top;
   /*border:solid rgb(1, 175, 152);*/
