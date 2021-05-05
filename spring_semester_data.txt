@@ -35,7 +35,7 @@ CAROLINE  HUYNH 12g Y 0/10 5/5 0sac |
 LINDSAY  JACOBS 12g Y 10/10 5/5 0sac |Second Mile Mission Center, Homeland Preparedness Project
 ASHITA  JAIN 12g Y 6/10 5/5 0sac |Homeland Preparedness Project
 AIMEE  JEFFREY-IWELU 12g Y 0/26 0/15 1sac No Spring Service Project Participation|
-DALIA A KAISSI 12g Y 0/10 5/5 0sac |
+DALIA A KAISSI 12g Y 5/10 5/5 0sac |Extra 5 from SSP help
 ANTHONY  KARAM 12g Y 12/10 5/5 0sac |Social Concerns St. Laurence
 SAIRA Z KHAN 12g Y 0/10 5/5 0sac |
 ISABELLA K KUMAR 12g Y 10/10 5/5 0sac |
@@ -55,7 +55,7 @@ MEGAN  MCKAY 12g Y 0/10 5/5 3sac Missed January Meeting, Missed February Meeting
 FELIPE  MEDRADO 12g Y 0/10 0/5 1sac No Spring Service Project Participation|
 SHREYA  MEHRA 12g Y 8/10 5/5 0sac |Second Mile Mission, Sugar Land Animal Services
 KHUSHI P MEHTA 12g Y 8/10 5/5 0sac |Homeland Preparedness
-TAYLOR  MICHEAUX 12g Y 0/30 0/15 2sac Missed March Meeting, No Spring Service Project Participation|
+TAYLOR  MICHEAUX 12g Y 0/30 10/15 1sac Missed March Meeting|Extra 10 from SSP help
 PRESLEY N MILLS 12g Y 12/10 5/5 0sac |Shared Dreams, NHS Curriculum Night, Homeland Preparedness Project, Houston Food Bank
 IYAN  MOMIN 12g Y 0/10 5/5 0sac |
 ABRAHAM  MUGHAL 12g Y 0/10 5/5 0sac |
@@ -139,6 +139,7 @@ ASHIQA  MODI 11g Y 0/10 0/5 5sac 5sac Missed Induction, Missed February Meeting,
 NATHANIEL  MORRIS 11g Y 0/10 5/5 4sac Missed Induction, Missed February Meeting, Missed March Meeting, Missed April Meeting|
 MASON  MYERS 11g Y 10/10 5/5 1sac Missed February Meeting|FBISD Shared Dreams, Second Mile Mission, Feeding the Homeless
 HANNAH  NGUYEN 11g Y 14/10 5/5 0sac |Habitat for Humanity, Dulles Soles4Souls
+EVELYN  NGUYEN 11g Y 0/10 5/5 0sac |
 KELECHI  OKOROAFOR 11g Y 3/10 5/5 0sac |Second Mile Mission
 REGINA  OLVERA SANDOVAL 11g Y 0/10 5/5 0sac |
 ELIZABETH  ONYEKWERE 11g Y 0/10 5/5 0sac |
@@ -160,7 +161,7 @@ WAVERLY  SOUVANNACHACK 11g Y 5/10 5/5 0sac |Mask On, Jokes for Folks
 THARSHINI  SUBASH 11g Y 6.5/10 5/5 0sac |NHS Curriculum Night, Fort Bend Education Foundation
 VIVEK  TALLAVAJHULA 11g Y 4/10 5/5 0sac |Houston Food Bank
 ZACHARY  TEMPLETON 11g Y 0/10 5/5 3sac Missed Induction, Missed January Meeting, Missed March|
-BRITTAIN  TRAN  11g Y 0/10 5/5 2sac Missed Induction, Missed January|
+BRITTAIN  TRAN  11g Y 5/10 5/5 2sac Missed Induction, Missed January|Extra 5 from SSP help
 JULIETTE  VAN DIJK 11g Y 9/10 5/5 0sac |Shared Dreams, Creative Hearts Camp, Mask On
 RHYS  VENNEMA 11g Y 9/10 5/5 0sac |East Fort Bend Human Needs
 NAISHA  VINAYAK 11g Y 0/10 5/5 1sac Missed February Meeting|
