@@ -29,7 +29,7 @@ CHLOE  DANG 12g Y 0/10 0/5 0sac |
 ANNIKA N ELISHA 12g Y 0/30 0/15 2sac Missed January Meeting, Missed February Meeting|
 RACHEL E FOUX 12g Y 0/10 0/5 0sac |
 BERNICE G FRANCISCO 12g Y 6/10 0/5 0sac |Shared Dreams Drive, National English Society, Mask On
-SARAH  GELFER 12g Y 12/10 0/5 0sac |UTHealth, Rotary Club of Seabrook
+SARAH  GELFER 12g Y 12/10 5/5 0sac |UTHealth, Rotary Club of Seabrook
 CAITLIN  GOLDWAIT 12g Y 0/10 0/5 1sac Missed January Meeting|
 PRANAVI  GUPTA 12g Y 0/10 0/5 0sac |
 LYDIA  HASSALL 12g Y 0/10 0/5 0sac |
@@ -51,7 +51,6 @@ NORA M LI 12g Y 32/10 0/5 0sac |Creative Hearts Camp
 JESSICA M LIU 12g Y 2/10 0/5 0sac |Curriculum Night
 EMILY  LOOTENS 12g Y 0/18 0/15 2sac Missed January Meeting, Missed February Meeting|
 AZAHRA A MAHARANI 12g Y 0/10 0/5 0sac |
-ADIBA  MAHJABEEN 12g Y 0/30 0/15 0sac |
 ELISA L MAKNOJIA 12g Y 0/10 0/7 2sac Missed January Meeting, Missed February Meeting|
 SAHIL  MALIK 12g Y 0/30 0/15 0sac |
 DAVID M MALLORY 12g Y 10/10 0/5 0sac |Second Mile Mission, Mask On
@@ -99,85 +98,87 @@ SUMMER  YANG 12g Y 0/10 0/5 1sac Missed January Meeting|
 YUHAN  ZHOU 12g Y 0/20 0/5 0sac |
 
 New Members
-REEBA  ABRAHAM 11g Y 0/10 0/5 0sac |
-MARCUS  AGUINALDO 11g Y 0/10 0/5 0sac |
-ANDREW  ALAN 11g Y 0/10 0/5 0sac |
-RACHEL  BAI 11g Y 10/10 0/5 0sac |Second Mile Mission
-KABIR  BORLE 11g Y 0/10 0/5 0sac |
+REEBA  ABRAHAM 11g Y 0/10 5/5 0sac |
+MARCUS  AGUINALDO 11g Y 0/10 5/5 1sac Missed Induction|
+ANDREW  ALAN 11g Y 0/10 5/5 0sac |
+RACHEL  BAI 11g Y 10/10 5/5 0sac |Second Mile Mission
+ETHAN  BEYER 11g Y 0/10 5/5 0sac |
+KABIR  BORLE 11g Y 0/10 5/5 0sac |
 ALI  BUDHWANI 11g Y 0/10 0/5 0sac |
-ERIC  CABRERA 11g Y 7.5/10 0/5 0sac |Rosenberg-Richmond Helping Hands
-KAITLYN  CAMPBELL 11g Y 0/10 0/5 0sac |
-SAKET  CHAMARTI 11g Y 10/10 0/5 0sac |Rosenberg Richmond Helping Hands
-MICHELLE  CHANG 11g Y 8.5/10 0/5 0sac |Creative Hearts Camp, Jokes for Folks
-ETHAN  CHANG 11g Y 8/10 0/5 0sac |Second Mile, Sugar Land Petopia
-JOSEPH  CHAU 11g Y 0/10 0/5 0sac |
-ERIC  CHEN 11g Y 0/10 0/5 0sac |
-GABRIEL  COTE 11g Y 8/10 0/5 0sac |Second Mile Mission
-GRACE  DEHNER 11g Y 0/10 0/5 0sac |
+ERIC  CABRERA 11g Y 7.5/10 5/5 0sac |Rosenberg-Richmond Helping Hands
+KAITLYN  CAMPBELL 11g Y 0/10 5/5 0sac |
+SAKET  CHAMARTI 11g Y 10/10 5/5 0sac |Rosenberg Richmond Helping Hands
+MICHELLE  CHANG 11g Y 8.5/10 5/5 0sac |Creative Hearts Camp, Jokes for Folks
+ETHAN  CHANG 11g Y 8/10 5/5 0sac |Second Mile, Sugar Land Petopia
+JOSEPH  CHAU 11g Y 0/10 5/5 0sac |
+ERIC  CHEN 11g Y 0/10 5/5 0sac |
+GABRIEL  COTE 11g Y 8/10 5/5 0sac |Second Mile Mission
+GRACE  DEHNER 11g Y 0/10 5/5 0sac |
 ERIN  FUCHS 11g Y 0/10 0/5 0sac |
-SALONI  GAJWANI 11g Y 0/10 0/5 0sac |
-KACEY  GUO 11g Y 6/10 0/5 0sac |Rotary Club of Seabrook
-SUSAN  HUANG 11g Y 8/10 0/5 0sac |Fort Bend Museum, Clements Mental Health Club, Arc of Fort Bend County
-ANNA  HUANG 11g Y 0/10 0/5 0sac |
-RUBEENA  HUSSAIN 11g Y 0/10 0/5 0sac |
-AYESHA  HUSSAIN 11g Y 0/10 0/5 0sac |
-ALVEENA  IMRAN 11g Y 0/10 0/5 0sac |
+SALONI  GAJWANI 11g Y 0/10 5/5 0sac |
+KACEY  GUO 11g Y 6/10 5/5 0sac |Rotary Club of Seabrook
+SUSAN  HUANG 11g Y 8/10 5/5 0sac |Fort Bend Museum, Clements Mental Health Club, Arc of Fort Bend County
+ANNA  HUANG 11g Y 0/10 5/5 0sac |
+AYESHA  HUSSAIN 11g Y 0/10 5/5 0sac |
+RUBEENA  HUSSAIN 11g Y 0/10 5/5 0sac |
+ALVEENA  IMRAN 11g Y 0/10 5/5 0sac |
 MADELINE  IRVIN 11g Y 0/10 0/5 0sac |
-AIMEE  JEFFREY-IWELU 11g Y 0/10 0/5 0sac |
+AIMEE  JEFFREY-IWELU 11g Y 0/10 5/5 0sac |
 ISAAC  KARIM 11g Y 0/10 0/5 0sac |
-SANJANA  KARNAM 11g Y 0/10 0/5 0sac |
-SAAHIR  KAROWADIA 11g Y 0/10 0/5 0sac |
-AASIYAH  KASSAM 11g Y 0/10 0/5 0sac |
-KATE  KENNINGTON 11g Y 9/10 0/5 0sac |East Fort Bend Human Needs
+SANJANA  KARNAM 11g Y 0/10 5/5 0sac |
+SAAHIR  KAROWADIA 11g Y 0/10 5/5 0sac |
+AASIYAH  KASSAM 11g Y 0/10 5/5 0sac |
+KATE  KENNINGTON 11g Y 9/10 5/5 0sac |East Fort Bend Human Needs
 WYATT  KENT 11g Y 0/10 0/5 0sac |
-CHAUDHRY-ALI  KHAN 11g Y 16/10 0/5 0sac |
-VISHRUTH KODIKANTI 12g Y 0/10 0/5 0sac |
-SHREYA  KRISHNAN 11g Y 7/10 0/5 0sac |Creative Hearts Camp, Sri Ashtalakshmi Temple
-ACQUIN  KULKARNI 11g Y 0/10 0/5 0sac |
-ZAWI  LAKHANI 11g Y 5/10 0/5 0sac |Fort Bend Education Foundation
-LARISSA  LEOTAUD 11g N 1/10 0/5 0sac |Virtual Pre Health Shadowing
-SOPHIA  LIU 11g Y 0/10 0/5 0sac |
+CHAUDHRY-ALI  KHAN 11g Y 16/10 5/5 0sac |
+VISHRUTH KODIKANTI 12g Y 0/10 5/5 0sac |
+SHREYA  KRISHNAN 11g Y 7/10 5/5 0sac |Creative Hearts Camp, Sri Ashtalakshmi Temple
+ACQUIN  KULKARNI 11g Y 0/10 5/5 0sac |
+ZAWI  LAKHANI 11g Y 5/10 5/5 0sac |Fort Bend Education Foundation
+LARISSA  LEOTAUD 11g N 1/10 5/5 0sac |Virtual Pre Health Shadowing
+SOPHIA  LIU 11g Y 0/10 5/5 0sac |
 JUAN  LUNA DURAN 11g Y 0/10 0/5 0sac |
-GAEL  MAMENTA 11g Y 0/10 0/5 0sac |
+ADIBA  MAHJABEEN 12g Y 0/30 5/15 0sac |
+GAEL  MAMENTA 11g Y 0/10 5/5 0sac |
 LANDER  MEINEN 11g Y 0/10 0/5 0sac |
 NICHOLAS MITCHELL 11g Y 0/10 0/5 0sac |
-LILIA  MITRA 11g Y 0/10 0/5 0sac |
-GABRIELLE  MOCK 11g Y 6/10 0/5 0sac |Shared Dreams, Creative Hearts Camp, Mask On
+LILIA  MITRA 11g Y 0/10 5/5 0sac |
+GABRIELLE  MOCK 11g Y 6/10 5/5 0sac |Shared Dreams, Creative Hearts Camp, Mask On
 ASHIQA  MODI 11g Y 0/10 0/5 0sac |
-NATHANIEL  MORRIS 11g Y 0/10 0/5 0sac |
-MASON  MYERS 11g Y 10/10 0/5 0sac |FBISD Shared Dreams, Second Mile Mission, Feeding the Homeless
-HANNAH  NGUYEN 11g Y 3/10 0/5 0sac |Habitat for Humanity
-KELECHI  OKOROAFOR 11g Y 3/10 0/5 0sac |Second Mile Mission
-REGINA  OLVERA SANDOVAL 11g Y 0/10 0/5 0sac |
-ELIZABETH  ONYEKWERE 11g Y 0/10 0/5 0sac |
+NATHANIEL  MORRIS 11g Y 0/10 5/5 0sac |
+MASON  MYERS 11g Y 10/10 5/5 0sac |FBISD Shared Dreams, Second Mile Mission, Feeding the Homeless
+HANNAH  NGUYEN 11g Y 3/10 5/5 0sac |Habitat for Humanity
+KELECHI  OKOROAFOR 11g Y 3/10 5/5 0sac |Second Mile Mission
+REGINA  OLVERA SANDOVAL 11g Y 0/10 5/5 0sac |
+ELIZABETH  ONYEKWERE 11g Y 0/10 5/5 0sac |
 SHAN  PANJWANI 11g Y 0/10 0/5 0sac |
-RIYA  PATEL 11g Y 0/10 0/5 0sac |
-MANSI  PATEL 11g Y 10/10 0/5 0sac |Mission Medication
-CHRISTINA  PENDLETON 11g Y 10/10 0/5 0sac |Clarewood House
-MIKOLAS  QUINONES 11g Y 0/10 0/5 0sac |
-PAULA  QUINTO 11g Y 0/10 0/5 0sac |
-SURABHI  RAMALINGAM 11g Y 10/10 0/5 0sac |Bored of Boredom
-NORAH  RAMI  11g Y 2/10 0/5 0sac |Creative Hearts Camp
-TANYA  RATNANI 11g Y 0/10 0/5 0sac |
-SHREY  ROY  11g Y 0/10 0/5 0sac |
-KYLE  RUDOLPH 11g Y 0/10 0/5 0sac |
-CIARA  SANCHEZ 11g Y 0/10 0/5 0sac |
-RAJVI  SHAH 11g Y 0/10 0/5 0sac |
-VALERIA  SHUM FENG 11g Y 0/10 0/5 0sac |
-WAVERLY  SOUVANNACHACK 11g Y 4/10 0/5 0sac |Mask On
-THARSHINI  SUBASH 11g Y 6.5/10 0/5 0sac |NHS Curriculum Night, Fort Bend Education Foundation
-VIVEK  TALLAVAJHULA 11g Y 4/10 0/5 0sac |Houston Food Bank
-ZACHARY  TEMPLETON 11g Y 0/10 0/5 0sac |
-BRITTAIN  TRAN  11g Y 0/10 0/5 0sac |
-JULIETTE  VAN DIJK 11g Y 7/10 0/5 0sac |Shared Dreams, Creative Hearts Camp
-RHYS  VENNEMA 11g Y 0/10 0/5 0sac |
-NAISHA  VINAYAK 11g Y 0/10 0/5 0sac |
-ZAFINA  VIRANI 11g Y 0/10 0/5 0sac |
-ALEXANDER  VITEK 11g Y 10/10 0/5 0sac |Houston Food Bank, City of Sugar Land - Animal Services
+RIYA  PATEL 11g Y 0/10 5/5 0sac |
+MANSI  PATEL 11g Y 10/10 5/5 0sac |Mission Medication
+CHRISTINA  PENDLETON 11g Y 10/10 5/5 0sac |Clarewood House
+MIKOLAS  QUINONES 11g Y 0/10 5/5 0sac |
+PAULA  QUINTO 11g Y 0/10 5/5 0sac |
+SURABHI  RAMALINGAM 11g Y 10/10 5/5 0sac |Bored of Boredom
+NORAH  RAMI  11g Y 2/10 5/5 0sac |Creative Hearts Camp
+TANYA  RATNANI 11g Y 0/10 5/5 0sac |
+SHREY  ROY  11g Y 0/10 5/5 0sac |
+KYLE  RUDOLPH 11g Y 0/10 5/5 0sac |
+CIARA  SANCHEZ 11g Y 0/10 5/5 0sac |
+RAJVI  SHAH 11g Y 0/10 5/5 0sac |
+VALERIA  SHUM FENG 11g Y 0/10 5/5 0sac |
+WAVERLY  SOUVANNACHACK 11g Y 4/10 5/5 0sac |Mask On
+THARSHINI  SUBASH 11g Y 6.5/10 5/5 0sac |NHS Curriculum Night, Fort Bend Education Foundation
+VIVEK  TALLAVAJHULA 11g Y 4/10 5/5 0sac |Houston Food Bank
+ZACHARY  TEMPLETON 11g Y 0/10 5/5 0sac |
+BRITTAIN  TRAN  11g Y 0/10 5/5 0sac |
+JULIETTE  VAN DIJK 11g Y 7/10 5/5 0sac |Shared Dreams, Creative Hearts Camp
+RHYS  VENNEMA 11g Y 0/10 5/5 0sac |
+NAISHA  VINAYAK 11g Y 0/10 5/5 0sac |
+ZAFINA  VIRANI 11g Y 0/10 5/5 0sac |
+ALEXANDER  VITEK 11g Y 10/10 5/5 0sac |Houston Food Bank, City of Sugar Land - Animal Services
 ADITI  VOHRA 11g Y 20/10 0/5 0sac |GMS Fort Bend
-ZAYNAH  YOUSUF 11g Y 8/10 0/5 0sac |Mask On, Clements Studious
-CHRISTINE  YUAN 11g Y 12/10 0/5 0sac |Rotary, FSMS, Prime Debate Institute, Brazos River Bike Rally
-GREGORY  ZACHARIAH 11g Y 0/10 0/5 0sac |
+ZAYNAH  YOUSUF 11g Y 8/10 5/5 0sac |Mask On, Clements Studious
+CHRISTINE  YUAN 11g Y 12/10 5/5 0sac |Rotary, FSMS, Prime Debate Institute, Brazos River Bike Rally
+GREGORY  ZACHARIAH 11g Y 0/10 5/5 0sac |
 
 Fall Semester Data
 RYAN  AARON 12g Y 12hr 5/5 2sac Missed September Meeting, Missed December Meeting|Fellowship in Discipleship
