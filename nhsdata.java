@@ -5,12 +5,12 @@ public class nhsdata
 	public static void main(String args[]) throws IOException
 	{
 		BufferedReader br = new BufferedReader(new FileReader("spring_semester_data.txt"));
-		PrintWriter out = new PrintWriter(new File("spring_semester_data_blank"));
+		//PrintWriter out = new PrintWriter(new File("spring_semester_data_blank"));
 		String loop="";
 		while(!loop.equals("Old Members"))
 		{
 			loop=br.readLine();
-			out.println(loop);
+			//out.println(loop);
 			System.out.println(loop);
 		}
 		loop = br.readLine();
@@ -32,10 +32,10 @@ public class nhsdata
 				requiredNHS+=(5-NHShrs)*2;
 			}
 			current = current.substring(0,current.indexOf("/5")-1)+"0/"+requiredNHS+current.substring(current.indexOf("/5")+2);
-			out.println(current);
+			//out.println(current);
 			System.out.println(current);
 			loop = br.readLine();
 		}
-		out.close();
+		//out.close();
 	}
 }
