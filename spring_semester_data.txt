@@ -96,7 +96,7 @@ ETHAN  BEYER 11g Y 6/10 5/5 1sac Missed February Meeting|Tri-City Church Resale
 KABIR  BORLE 11g Y 0/10 5/5 0sac |
 ALI  BUDHWANI 11g Y 0/10 0/5 4sac Missed February Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Participation|
 ERIC  CABRERA 11g Y 7.5/10 5/5 0sac |Rosenberg-Richmond Helping Hands
-KAITLYN  CAMPBELL 11g Y 2/10 5/5 0sac |Project Pillowcase
+KAITLYN  CAMPBELL 11g Y 7/10 5/5 0sac |Project Pillowcase
 SAKET  CHAMARTI 11g Y 10/10 5/5 2sac Missed March Meeting, Missed April Meeting|Rosenberg Richmond Helping Hands
 ETHAN  CHANG 11g Y 11/10 5/5 1sac Missed Induction|Second Mile, Sugar Land Petopia, Mask On
 MICHELLE  CHANG 11g Y 8.5/10 5/5 0sac |Creative Hearts Camp, Jokes for Folks
@@ -106,13 +106,13 @@ GABRIEL  COTE 11g Y 11/10 5/5 0sac |Second Mile Mission, Cornerstone Community
 GRACE  DEHNER 11g Y 10/10 5/5 0sac |Fort Bend Family Promise
 ERIN  FUCHS 11g Y 10/10 0/5 3sac Missed January Meeting, Missed February Meeting, No Spring Service Participation|
 SALONI  GAJWANI 11g Y 6/10 5/5 0sac |Solace Psychiatry at Riverstone
-SARAH  GELFER 12g Y 12/10 5/5 1sac Missed April Meeting|UTHealth, Rotary Club of Seabrook
+SARAH  GELFER 12g Y 30/10 5/5 1sac Missed April Meeting|UTHealth, Rotary Club of Seabrook
 KACEY  GUO 11g Y 6/10 5/5 0sac |Rotary Club of Seabrook
 SUSAN  HUANG 11g Y 8/10 5/5 0sac |Fort Bend Museum, Clements Mental Health Club, Arc of Fort Bend County
 ANNA  HUANG 11g Y 10/10 5/5 0sac |Steel City Codes
-AYESHA  HUSSAIN 11g Y 0/10 5/5 1sac Missed January Meeting|
+AYESHA  HUSSAIN 11g Y 2/10 5/5 1sac Missed January Meeting|
 RUBEENA  HUSSAIN 11g Y 11/10 5/5 1sac Missed March Meeting|Feeding the Homeless, Project Pillowcase
-JITEY  IKUKU 11g Y 2/10 5/5 0sac |Fort Bend Women's Center
+JITEY  IKUKU 11g Y 7/10 5/5 0sac |Fort Bend Women's Center
 ALVEENA  IMRAN 11g Y 0/10 5/5 1sac Missed February Meeting|
 MADELINE  IRVIN 11g Y 0/10 0/5 5sac Missed Induction, Missed February Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
 AIMEE  JEFFREY-IWELU 11g Y 0/10 5/5 1sac Missed Induction|
@@ -127,19 +127,19 @@ VISHRUTH KODIKANTI 12g Y 5/10 5/5 0sac |Fort Settlement Middle School
 SHREYA  KRISHNAN 11g Y 11.75/10 5/5 0sac |Creative Hearts Camp, Sri Ashtalakshmi Temple, North South Foundation
 ACQUIN  KULKARNI 11g Y 11/10 5/5 1sac Missed March Meeting|VT SEVA, TELICA
 ZAWI  LAKHANI 11g Y 10/10 5/5 2sac Missed February Meeting, Missed March Meeting|Fort Bend Education Foundation, Serve Sugar Land Volunteer Program
-LARISSA  LEOTAUD 11g N 9/10 5/5 0sac |Virtual Pre Health Shadowing, Hope for Three
-SOPHIA  LIU 11g Y 0/10 5/5 1sac Missed January Meeting|
+LARISSA  LEOTAUD 11g N 14/10 5/5 0sac |Virtual Pre Health Shadowing, Hope for Three
+SOPHIA  LIU 11g Y 5/10 5/5 1sac Missed January Meeting|NHS TSP
 JUAN  LUNA DURAN 11g Y 0/10 0/5 5sac Missed January Meeting, Missed February Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
-ADIBA  MAHJABEEN 11g Y 5/30 5/15 0sac |Steel City Codes
+ADIBA  MAHJABEEN 11g Y 10/30 5/15 0sac |Steel City Codes
 GAEL  MAMENTA 11g Y 10/10 5/5 1sac Missed January Meeting|Fort Bend Education Foundation, Project Pillowcase
 LANDER  MEINEN 11g Y 0/10 0/5 5sac Missed January Meeting, Missed February Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
 NICHOLAS MITCHELL 11g Y 0/10 0/5 5sac Missed Induction, Missed January Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
-LILIA  MITRA 11g Y 0/10 5/5 0sac |
+LILIA  MITRA 11g Y 17.5/10 5/5 0sac |
 GABRIELLE  MOCK 11g Y 7/10 5/5 0sac |Shared Dreams, Creative Hearts Camp, Mask On, Jokes for Folks
 ASHIQA  MODI 11g Y 0/10 0/5 5sac 5sac Missed Induction, Missed February Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
 NATHANIEL  MORRIS 11g Y 0/10 5/5 4sac Missed Induction, Missed February Meeting, Missed March Meeting, Missed April Meeting|
 MASON  MYERS 11g Y 10/10 5/5 1sac Missed February Meeting|FBISD Shared Dreams, Second Mile Mission, Feeding the Homeless
-HANNAH  NGUYEN 11g Y 14/10 5/5 0sac |Habitat for Humanity, Dulles Soles4Souls
+HANNAH  NGUYEN 11g Y 19/10 5/5 0sac |Habitat for Humanity, Dulles Soles4Souls
 EVELYN  NGUYEN 11g Y 10/10 5/5 0sac |Project Pillowcase
 KELECHI  OKOROAFOR 11g Y 3/10 5/5 0sac |Second Mile Mission
 REGINA  OLVERA SANDOVAL 11g Y 0/10 5/5 0sac |
@@ -155,7 +155,7 @@ NORAH  RAMI  11g Y 2/10 5/5 2sac Missed January Meeting, Missed February Meeting
 TANYA  RATNANI 11g Y 5/10 5/5 0sac |Limitless Minds
 SHREY  ROY  11g Y 0/10 5/5 0sac |
 KYLE  RUDOLPH 11g Y 0/10 5/5 0sac |
-CIARA  SANCHEZ 11g Y 4/10 5/5 0sac |Mental Health Club
+CIARA  SANCHEZ 11g Y 10/10 5/5 0sac |Mental Health Club
 RAJVI  SHAH 11g Y 10/10 5/5 0sac |Clements Studious
 VALERIA  SHUM FENG 11g Y 5/10 5/5 0sac |Jokes for Folks, Key Club, Red Cross
 WAVERLY  SOUVANNACHACK 11g Y 7/10 5/5 0sac |Mask On, Jokes for Folks, Red Cross Club
@@ -170,8 +170,8 @@ ZAFINA  VIRANI 11g Y 0/10 5/5 1sac Missed April Meeting|
 ALEXANDER  VITEK 11g Y 10/10 5/5 1sac Missed January Meeting|Houston Food Bank, City of Sugar Land - Animal Services
 ADITI  VOHRA 11g Y 20/10 0/5 4sac Missed January Meeting, Missed February Meeting, Missed March Meeting, No Spring Service Project Participation|GMS Fort Bend
 ALLISON  WANG 12g Y 0/10 5/5 2sac Missed Induction, Missed February Meeting|
-ZAYNAH  YOUSUF 11g Y 15/10 5/5 0sac |Mask On, Clements Studious, Limitless Minds
-CHRISTINE  YUAN 11g Y 12/10 5/5 0sac |Rotary, FSMS, Prime Debate Institute, Brazos River Bike Rally
+ZAYNAH  YOUSUF 11g Y 20.3/10 5/5 0sac |Mask On, Clements Studious, Limitless Minds
+CHRISTINE  YUAN 11g Y 17/10 5/5 0sac |Rotary, FSMS, Prime Debate Institute, Brazos River Bike Rally
 GREGORY  ZACHARIAH 11g Y 13/10 5/5 0sac |Building Blocks, Steel City Codes
 
 Fall Semester Data
