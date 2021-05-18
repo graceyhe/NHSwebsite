@@ -18,7 +18,7 @@ SAGE T BUTLER 12g Y 0/10 5/5 0sac |
 ZOIE E CAMP 12g Y 7/10 5/5 0sac |St. Laurence Social Concerns Ministry
 SHAAN J CHANCHANI 12g Y 22/20 5/5 0sac |Fort Bend Education Foundation, Mask On
 SAMIKSHA  CHANDRAN 12g Y 0/10 5/5 0sac |
-KATHRYN G CHEN 12g Y 4/10 5/5 0sac |Exceptional Care for Children
+KATHRYN G CHEN 12g Y 9/10 5/5 0sac |Exceptional Care for Children
 MICHELLE L CHEN 12g Y 10/10 5/5 0sac |FASCA
 ABBY M COUTURE 12g Y 0/10 5/5 0sac |
 ARDEN C CULVER 12g Y 5/10 5/5 0sac |CHS Baseball
@@ -68,7 +68,7 @@ ANNIKA  POONIA 12g Y 13/20 5/5 0sac |Shared Dreams, NHS TSP(?)
 SANJANA S PORAY 12g Y 0/10 5/5 0sac |
 RITHIKA  POTHI 12g Y 0/10 5/5 0sac |
 ELIZABETH  QUACH 12g Y 0/10 5/5 0sac |
-LINDA A REFAI 12g Y 10/10 1/5 0sac |Second Mile Mission
+LINDA A REFAI 12g Y 10/10 6/5 0sac |Second Mile Mission
 OSCAR  RODEN 12g Y 0/10 5/5 0sac |
 MAUMITA  SADHUKHAN 12g Y 11/10 5/5 0sac |Shared Dreams, Austin Parkway Elementary
 ASHRITA  SANGHI 12g Y 10/10 5/5 0sac |Love for Our Elders
@@ -159,7 +159,7 @@ CIARA  SANCHEZ 11g Y 10/10 5/5 0sac |Mental Health Club
 RAJVI  SHAH 11g Y 10/10 5/5 0sac |Clements Studious
 VALERIA  SHUM FENG 11g Y 5/10 5/5 0sac |Jokes for Folks, Key Club, Red Cross
 WAVERLY  SOUVANNACHACK 11g Y 7/10 5/5 0sac |Mask On, Jokes for Folks, Red Cross Club
-THARSHINI  SUBASH 11g Y 16.5/10 5/5 0sac |NHS Curriculum Night, Fort Bend Education Foundation, Project Pillowcase
+THARSHINI  SUBASH 11g Y 21.5/10 5/5 0sac |NHS Curriculum Night, Fort Bend Education Foundation, Project Pillowcase
 VIVEK  TALLAVAJHULA 11g Y 10/10 5/5 0sac |Houston Food Bank, Pollinator Watch, Houston Food Bank
 ZACHARY  TEMPLETON 11g Y 11/10 5/5 3sac Missed Induction, Missed January Meeting, Missed March|Homeland Preparedness, Sugar Land Baptist Church
 BRITTAIN  TRAN 11g Y 5/10 5/5 2sac Missed Induction, Missed January|Extra 5 from SSP help
