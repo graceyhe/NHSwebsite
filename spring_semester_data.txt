@@ -40,7 +40,7 @@ ANTHONY  KARAM 12g Y 12/10 5/5 0sac |Social Concerns St. Laurence
 SAIRA Z KHAN 12g Y 2/10 5/5 0sac |
 ISABELLA K KUMAR 12g Y 10/10 5/5 0sac |
 CARSON J LAND 12g Y 10/10 5/5 0sac |Habitat for Humanity
-CHRISTIAN E LE 12g Y 0/10 5/5 0sac |
+CHRISTIAN E LE 12g Y 11/10 5/5 0sac |St. Laurence Catholic Church, The Brazos River Bike Rally
 LOGAN A LEIDER 12g Y 0/10 0/5 3sac Missed January Meeting, Missed February Meeting, No Spring Service Project Participation|
 NORA M LI 12g Y 32/10 5/5 0sac |Creative Hearts Camp
 JESSICA M LIU 12g Y 2/10 5/5 0sac |Curriculum Night
@@ -217,7 +217,7 @@ AASIYAH  KASSAM 12g Y 0hr 0/5 0sac |
 SAIRA Z KHAN 12g Y 10hr 5/5 1sac Missed October Meeting|Letters for Lifesavers
 ISABELLA K KUMAR 12g Y 10hr 5/5 0sac |
 CARSON J LAND 12g Y 15hr 5/5 1sac Missed November Meeting|Toys for Tots
-CHRISTIAN E LE 12g Y 69hr 5/5 0sac |St Laurence Catholic Church, The Brazos River Bike Rally
+CHRISTIAN E LE 12g Y 58hr 5/5 0sac |St Laurence Catholic Church, The Brazos River Bike Rally
 LOGAN A LEIDER 12g Y 13hr 5/5 1sac Missed October Meeting|Leukemia Lymphoma Society
 NORA M LI 12g Y 12hr 5/5 0sac |Sri Kulkarni Phone Banking, extra with NHS (2 pen pals, 5 planning, 1 game night), TED translators
 JESSICA M LIU 12g Y 12hr 5/5 0sac |Ranger Camp, NHS
