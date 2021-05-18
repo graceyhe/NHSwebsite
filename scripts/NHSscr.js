@@ -3,6 +3,19 @@ function myFunction()
     var first = document.getElementById("fname").value.toUpperCase();
     var middle = document.getElementById("mname").value.toUpperCase();
     var last = document.getElementById("lname").value.toUpperCase();
+    //console.log(first.slice(first.length-1,first.length));
+    if(first.slice(first.length-1,first.length).localeCompare(" ")==0)
+    {
+      first = first.slice(0,first.length-1);
+    }
+    if(middle.slice(middle.length-1,middle.length).localeCompare(" ")==0)
+    {
+      middle = middle.slice(0,middle.length-1);
+    }
+    if(last.slice(last.length-1,last.length).localeCompare(" ")==0)
+    {
+      last = last.slice(0,last.length-1);
+    }
     var xmlhttp = new XMLHttpRequest();
     var result = null;
     xmlhttp.open("GET", "spring_semester_data.txt", false);
@@ -57,7 +70,7 @@ function myFunction()
     }*/
     //alert("Number of hours: "+hours);
     //console.log(result.indexOf("New Members"));
-    if(pos!=-1 && namleng>3)
+    if(pos!=-1 && namleng>3 && first.length>0 && last.length>0)
     {
         if(first.includes(" "))
         {
@@ -171,6 +184,14 @@ function myFunction()
         if(namleng==3)
         {
             alert("Please enter your name!");
+        }
+        else if(first.length==0)
+        {
+          alert("Please enter your full name!");
+        }
+        else if(last.length==0)
+        {
+          alert("Please enter your full name!");
         }
         else
         alert("Sorry, couldn't find you in the database, check spelling?");
