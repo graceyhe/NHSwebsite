@@ -130,7 +130,7 @@ ZAWI  LAKHANI 11g Y 10/10 5/5 2sac Missed February Meeting, Missed March Meeting
 LARISSA  LEOTAUD 11g N 14/10 5/5 0sac |Virtual Pre Health Shadowing, Hope for Three
 SOPHIA  LIU 11g Y 5/10 5/5 1sac Missed January Meeting|NHS TSP
 JUAN  LUNA DURAN 11g Y 0/10 0/5 5sac Missed January Meeting, Missed February Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
-ADIBA  MAHJABEEN 11g Y 10/30 5/15 0sac |Steel City Codes
+ADIBA  MAHJABEEN 11g Y 10/10 5/5 0sac |Steel City Codes
 GAEL  MAMENTA 11g Y 10/10 5/5 1sac Missed January Meeting|Fort Bend Education Foundation, Project Pillowcase
 LANDER  MEINEN 11g Y 0/10 0/5 5sac Missed January Meeting, Missed February Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
 NICHOLAS MITCHELL 11g Y 0/10 0/5 5sac Missed Induction, Missed January Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
@@ -222,7 +222,6 @@ NORA M LI 12g Y 12hr 5/5 0sac |Sri Kulkarni Phone Banking, extra with NHS (2 pen
 JESSICA M LIU 12g Y 12hr 5/5 0sac |Ranger Camp, NHS
 EMILY  LOOTENS 12g Y 6hr 0/5 4sac Missed November Meeting, Missed December Meeting, Late/Did Not Pay Dues, Missing 5 NHS hrs and 4 regular hrs|St. Laurence Catholic Charities
 AZAHRA A MAHARANI 12g Y 10hr 5/5 0sac |
-ADIBA  MAHJABEEN 12g Y 0hr 0/5 0sac |
 ELISA L MAKNOJIA 12g Y 61hr 4/5 4sac Missed October Meeting, Missed November Meeting, Missed December Meeting, Missing 1 NHS hr|Ismaili Girl Scouts, Religious Education Center
 SAHIL  MALIK 12g Y 0hr 0/5 0sac |
 DAVID M MALLORY 12g Y 13hr 5/5 1sac Missed October Meeting|Love for Our Elders, Second Mile Mission
