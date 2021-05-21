@@ -81,8 +81,8 @@ HARUNA  TORIKAI 12g Y 10/10 5/5 0sac |Japan-American Society of Houston, Mask On
 PINAK  TRIPATHI 12g Y 0/10 5/5 0sac |
 SOFIA M VELA 12g Y 0/10 5/5 0sac |
 SAMYUKTHA  VENKATESH 12g Y 0/10 5/5 0sac |
-DANIEL E VILLARREAL 12g Y 0/10 5/5 0sac |
-DAVID A VILLAREAL 12g Y 18/10 13/13 0sac |Second Mile Mission, Clements Baseball, St. Laurence Social Concerns Ministry
+DANIEL E VILLARREAL 12g Y 10/10 5/5 0sac |
+DAVID A VILLAREAL 12g Y 8/10 13/13 0sac |Second Mile Mission, Clements Baseball, St. Laurence Social Concerns Ministry
 JIAYI  XIAO 12g Y 8/10 5/5 0sac |Junior Achievement, Key Club
 SUMMER  YANG 12g Y 10/10 5/5 1sac Missed January Meeting|Community First Group
 YUHAN  ZHOU 12g Y 0/20 5/5 0sac |
@@ -261,7 +261,7 @@ HARUNA  TORIKAI 12g Y 14.37hr 5/5 0sac |Houston Food Bank, Second Mile Mission, 
 PINAK  TRIPATHI 12g Y 17hr 5/5 0sac |Community First Group
 SOFIA M VELA 12g Y 15.5hr 5/5 0sac |Houston Food Bank, Gold Award Project
 SAMYUKTHA  VENKATESH 12g Y 18hr 5/5 0sac |Houston Tamil Schools
-DANIEL E VILLARREAL 12g Y 10hr 5/5 0sac |Catholic Charities, Mamie George Community Center
+DANIEL E VILLARREAL 12g Y 13hr 5/5 0sac |Catholic Charities, Mamie George Community Center
 DAVID A VILLAREAL 12g Y 10hr 1/5 1sac Missing 4 NHS hrs|Catholic Charities, Mamie George Communitiy Center
 ALLISON  WANG 12g Y 0hr 0/5 0sac |
 JIAYI  XIAO 12g Y 12hr 5/5 0sac |Spanish National Honor Society*, Student Council, Key Club
