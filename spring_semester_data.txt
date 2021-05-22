@@ -109,7 +109,7 @@ SARAH  GELFER 12g Y 30/10 5/5 1sac Missed April Meeting|UTHealth, Rotary Club of
 KACEY  GUO 11g Y 10/10 5/5 0sac |Rotary Club of Seabrook, Homeland Preparedness Project
 SUSAN  HUANG 11g Y 8/10 5/5 0sac |Fort Bend Museum, Clements Mental Health Club, Arc of Fort Bend County
 ANNA  HUANG 11g Y 10/10 5/5 0sac |Steel City Codes
-AYESHA  HUSSAIN 11g Y 11/10 5/5 1sac Missed January Meeting|Mask On
+AYESHA  HUSSAIN 11g Y 9/10 5/5 1sac Missed January Meeting|Mask On
 RUBEENA  HUSSAIN 11g Y 11/10 5/5 1sac Missed March Meeting|Feeding the Homeless, Project Pillowcase
 JITEY  IKUKU 11g Y 10/10 5/5 0sac |Fort Bend Women's Center
 ALVEENA  IMRAN 11g Y 12/10 5/5 1sac Missed February Meeting|An Nisa Hope Center
@@ -127,7 +127,7 @@ SHREYA  KRISHNAN 11g Y 11.75/10 5/5 0sac |Creative Hearts Camp, Sri Ashtalakshmi
 ACQUIN  KULKARNI 11g Y 11/10 5/5 1sac Missed March Meeting|VT SEVA, TELICA
 ZAWI  LAKHANI 11g Y 10/10 5/5 2sac Missed February Meeting, Missed March Meeting|Fort Bend Education Foundation, Serve Sugar Land Volunteer Program
 LARISSA  LEOTAUD 11g N 14/10 5/5 0sac |Virtual Pre Health Shadowing, Hope for Three
-SOPHIA  LIU 11g Y 5/10 5/5 1sac Missed January Meeting|NHS TSP
+SOPHIA  LIU 11g Y 10/10 5/5 1sac Missed January Meeting|NHS TSP, TX 10 Series
 JUAN  LUNA DURAN 11g Y 0/10 0/5 5sac Missed January Meeting, Missed February Meeting, Missed March Meeting, Missed April Meeting, No Spring Service Project Participation|
 ADIBA  MAHJABEEN 11g Y 10/10 5/5 0sac |Steel City Codes
 GAEL  MAMENTA 11g Y 10/10 5/5 1sac Missed January Meeting|Fort Bend Education Foundation, Project Pillowcase
@@ -148,7 +148,7 @@ SHAN  PANJWANI 11g Y 0/10 0/5 5sac Missed January Meeting, Missed February Meeti
 MANSI  PATEL 11g Y 10/10 5/5 0sac |Mission Medication
 RIYA  PATEL 11g Y 10/10 5/5 1sac Missed January Meeting|Clements Orchestra, Sterling Asi
 CHRISTINA  PENDLETON 11g Y 10/10 5/5 1sac Missed April Meeting|Clarewood House
-MIKOLAS  QUINONES 11g Y 2/10 5/5 0sac |NHS Bundles
+MIKOLAS  QUINONES 11g Y 10/10 5/5 0sac |NHS Bundles, Habitat for Humanity, Houston Food Bank
 PAULA  QUINTO 11g Y 0/10 5/5 1sac Missed Induction|
 SURABHI  RAMALINGAM 11g Y 10/10 5/5 0sac |Bored of Boredom
 NORAH  RAMI 11g Y 11.5/10 5/5 2sac Missed January Meeting, Missed February Meeting|Creative Hearts Camp, Catalyst Coalition (Ebook Buddy)
